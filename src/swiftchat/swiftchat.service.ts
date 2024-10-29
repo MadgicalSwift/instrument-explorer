@@ -5,17 +5,7 @@ import { MessageService } from 'src/message/message.service';
 import { localised } from 'src/i18n/en/localised-strings';
 import data from '../datasource/data.json';
 import axios from 'axios';
-import {
-  createMainTopicButtons,
-  createSubTopicButtons,
-  createButtonWithExplanation,
-  createDifficultyButtons,
-  createTestYourSelfButton,
-  questionButton,
-  answerFeedback,
-  optionButton,
-  buttonWithScore
-} from 'src/i18n/buttons/button';
+import {createMainTopicButtons,createSubTopicButtons,createButtonWithExplanation,createDifficultyButtons,createTestYourSelfButton,questionButton,answerFeedback,optionButton,buttonWithScore} from 'src/i18n/buttons/button';
 dotenv.config();
 
 @Injectable()
