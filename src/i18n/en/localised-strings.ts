@@ -10,7 +10,7 @@ export const localised = {
   chooseTopic:"Great! Let’s dive into the world of musical instruments. Which family would you like to explore?",
   retakeQuiz:'Retake Quiz',
   startQuiz: 'Start Quiz',
-  Moreexplanation:'Explore Information about Selected Instrument 🎼',
+  Moreexplanation:'More Explanation',
   viewChallenge:"View Challenges",
   endMessage:"Whenever you're ready to continue, just type 'Hi' to start the bot again. Looking forward to helping you out! 😊",
   explanation: (subtopicName: string, description: string) =>
