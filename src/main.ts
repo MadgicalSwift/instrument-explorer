@@ -1,6 +1,5 @@
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
-import { LoggingService } from './common/middleware/logger.middleware';
 import axios from 'axios';
 
 axios.defaults.timeout = 10000;   // 10 seconds
