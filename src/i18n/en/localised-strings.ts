@@ -5,10 +5,9 @@ export const localised = {
   language_changed: 'Language changed to English',
   welcomeMessage: "😊Welcome to the Musical Adventure! Ready to discover amazing instruments?🎵",
   validText: ['hi', 'Hi', 'HI', 'hI', 'Hello', 'hello', 'hola'],
-  selectSubtopic: (topicName: string) =>
-  `📜 Great! Let’s dive into the world of musical instruments. Which family would you like to explore? 🌟🕺:`,
+  selectSubtopic: (topicName: string) =>`"Awesome choice! Here’s what you can learn about **${topicName}**:"`,
   mainMenu:'Main Menu',
-  chooseTopic:"Awesome choice! Here’s what you can learn about **${topicName}**: 🎶✨",
+  chooseTopic:"Great! Let’s dive into the world of musical instruments. Which family would you like to explore? 🎶✨",
   retakeQuiz:'Retake Quiz',
   startQuiz: 'Start Quiz',
   Moreexplanation:'More Explanation',

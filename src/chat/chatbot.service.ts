@@ -223,13 +223,6 @@ export class ChatbotService {
           console.log("Challenge Data:",challengeData)
           // console.log("user:", user )
           await this.message.newscorecard(from,user.score,user.questionsAnswered,badge)
-          // await this.message.sendScore(
-            
-          //   user.score,
-          //   user.questionsAnswered,
-           
-          //   payload
-          // );
           let isAnswer = ""
         if (result==1){
           isAnswer = "correct"

@@ -3,7 +3,6 @@ import * as dotenv from 'dotenv';
 import { LocalizationService } from 'src/localization/localization.service';
 import { MessageService } from 'src/message/message.service';
 import { localised } from 'src/i18n/en/localised-strings';
-import data from '../datasource/data.json';
 import axios from 'axios';
 import {
   createMainTopicButtons,
@@ -113,7 +112,7 @@ export class SwiftchatMessageService extends MessageService {
           theme: "theme2",
           background: "blue",
           performance: "high",
-          share_message: "Hey! I got a badge in the Today quiz. Click the link below to take the quiz.",
+          share_message: "I got a badge! Take the quiz: https://web.convegenius.ai/bots?botId=0216260609726241",
           text1:  `Quiz-${date}-${month}-${year}`,
           text2: "Good job! Keep pushing!",
           text3: `${score*10}%`,
