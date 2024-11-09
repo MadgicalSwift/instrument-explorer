@@ -8055,7 +8055,533 @@
       "explanation": "Taking the time to listen and unwind while enjoying bansuri music enhances the overall experience."
     }
   ]
+},
+{
+  "setNumber": 6,
+  "questions": [
+    {
+      "question": "What happens when you play the Bansuri?",
+      "options": ["Make music", "Make toys", "Make food", "Make pictures"],
+      "answer": "Make music",
+      "explanation": "The Bansuri is a traditional Indian flute that produces music when played by blowing into it and covering the holes."
+    },
+    {
+      "question": "What did Pandit Pannalal Ghosh do with the Bansuri?",
+      "options": ["Made it better", "Painted it", "Broke it", "Sold it"],
+      "answer": "Made it better",
+      "explanation": "Pandit Pannalal Ghosh, a famous Indian musician, enhanced the Bansuri to improve its sound and adaptability for classical music."
+    },
+    {
+      "question": "What was the Bansuri used for in ancient India?",
+      "options": ["Talk to friends", "Music in stories", "Paint pictures", "Tell stories"],
+      "answer": "Music in stories",
+      "explanation": "The Bansuri was used in ancient India to create music that accompanied stories, dances, and spiritual practices."
+    },
+    {
+      "question": "What is the best way to play the Bansuri?",
+      "options": ["Blow into it gently", "Hit it with stick", "Roll it on floor", "Shake it"],
+      "answer": "Blow into it gently",
+      "explanation": "To play the Bansuri, you blow gently into one end, while covering and uncovering the finger holes to create different notes."
+    },
+    {
+      "question": "What kind of sound does the Bansuri make when played?",
+      "options": ["Loud and noisy", "Soft and calm", "Sharp and fast", "Very slow"],
+      "answer": "Soft and calm",
+      "explanation": "The Bansuri produces a soft, calming sound that is ideal for meditation, storytelling, and classical music."
+    },
+    {
+      "question": "Where can you see pictures of the Bansuri?",
+      "options": ["Old temples", "In video games", "On TV", "In books only"],
+      "answer": "Old temples",
+      "explanation": "The Bansuri is depicted in ancient art and carvings found in temples and caves, especially in connection with the stories of Krishna."
+    },
+    {
+      "question": "What does the Bansuri represent in the story of Krishna?",
+      "options": ["Love and peace", "Angry thoughts", "Laughter", "Sadness"],
+      "answer": "Love and peace",
+      "explanation": "In the story of Krishna, the Bansuri symbolizes love, peace, and devotion, as Krishna's music soothes and attracts listeners."
+    },
+    {
+      "question": "What shape is the Bansuri when it’s played?",
+      "options": ["Circle", "Straight line", "Square", "Triangle"],
+      "answer": "Straight line",
+      "explanation": "The Bansuri is a long, straight flute, typically made from bamboo, with finger holes along its length."
+    },
+    {
+      "question": "Who can play the Bansuri?",
+      "options": ["Only grown-ups", "Only kids", "Anyone", "Only musicians"],
+      "answer": "Anyone",
+      "explanation": "Anyone can learn to play the Bansuri, whether they are children or adults, as long as they are interested in learning music."
+    },
+    {
+      "question": "What happens when Krishna plays the Bansuri?",
+      "options": ["He tells story", "People dance", "Sky turns dark", "Ground shakes"],
+      "answer": "People dance",
+      "explanation": "When Krishna plays the Bansuri, it is said that people are filled with peace, and often, they start dancing to the melodious music."
+    }
+  ]
+},
+{
+  "setNumber": 7,
+  "questions": [
+    {
+      "question": "What makes the Bansuri special?",
+      "options": ["Loud noises", "Beautiful sounds", "Big and heavy", "Shiny"],
+      "answer": "Beautiful sounds",
+      "explanation": "The Bansuri is special because it produces beautiful, melodious sounds that are soothing and peaceful."
+    },
+    {
+      "question": "How do you play the Bansuri?",
+      "options": ["Hit with hands", "Blow into it", "Throw it", "Sit on it"],
+      "answer": "Blow into it",
+      "explanation": "To play the Bansuri, you blow into one end while covering and uncovering the finger holes along the flute."
+    },
+    {
+      "question": "Where can we hear the Bansuri?",
+      "options": ["In the forest", "Music concerts", "In the kitchen", "At the beach"],
+      "answer": "Music concerts",
+      "explanation": "The Bansuri is often heard in classical music concerts, especially in Indian music, where it is played as a solo or accompaniment."
+    },
+    {
+      "question": "What is another name for Bansuri in the south of India?",
+      "options": ["Veena", "Venu", "Tabla", "Sitar"],
+      "answer": "Venu",
+      "explanation": "In South India, the Bansuri is also called 'Venu', which is used in traditional Indian music."
+    },
+    {
+      "question": "What size is the Bansuri?",
+      "options": ["Tiny", "14 inches long", "Very big", "As big as a car"],
+      "answer": "14 inches long",
+      "explanation": "The Bansuri is typically around 14 inches long, made from bamboo, and can vary slightly in size based on the player’s preference."
+    },
+    {
+      "question": "What happens when you play the Bansuri?",
+      "options": ["It makes noise", "Creates music", "Makes pictures", "Makes things move"],
+      "answer": "Creates music",
+      "explanation": "When you play the Bansuri, it creates beautiful, soothing music, often used in storytelling, meditation, and classical performances."
+    },
+    {
+      "question": "How is the Bansuri made?",
+      "options": ["By paper", "By bamboo", "By plastic", "By clay"],
+      "answer": "By bamboo",
+      "explanation": "The Bansuri is traditionally made from bamboo, as it is a light, durable material that produces a mellow sound when blown into."
+    },
+    {
+      "question": "Who helped the Bansuri become famous in India?",
+      "options": ["Lord Krishna", "Pandit Ghosh", "A dog", "A bird"],
+      "answer": "Pandit Ghosh",
+      "explanation": "Pandit Pannalal Ghosh was instrumental in popularizing the Bansuri in Indian classical music, making it a key instrument."
+    },
+    {
+      "question": "What kind of music can the Bansuri play?",
+      "options": ["Fast rock", "Sweet and calm", "Loud drums", "Pop songs"],
+      "answer": "Sweet and calm",
+      "explanation": "The Bansuri is often used to play sweet, calm, and soulful music, especially in classical and devotional music."
+    },
+    {
+      "question": "What does the Bansuri’s sound feel like?",
+      "options": ["Strong and sharp", "Soft and sweet", "Loud and noisy", "Slow and boring"],
+      "answer": "Soft and sweet",
+      "explanation": "The Bansuri's sound is soft, sweet, and serene, often evoking a sense of peace and tranquility."
+    }
+  ]
+},
+{
+  "setNumber": 8,
+  "questions": [
+    {
+      "question": "What kind of music does Krishna play on the Bansuri?",
+      "options": ["Slow and sweet", "Fast and loud", "Rock music", "Dance music"],
+      "answer": "Slow and sweet",
+      "explanation": "Krishna is often depicted playing slow, sweet, and soothing melodies on the Bansuri."
+    },
+    {
+      "question": "Where can the Bansuri be played?",
+      "options": ["Only inside", "Only outside", "Both in and out", "Only in water"],
+      "answer": "Both in and out",
+      "explanation": "The Bansuri is a versatile instrument that can be played both indoors and outdoors."
+    },
+    {
+      "question": "What does the Bansuri help to create?",
+      "options": ["Magic spells", "Beautiful music", "Loud noises", "Pictures"],
+      "answer": "Beautiful music",
+      "explanation": "The Bansuri is known for producing beautiful, calming music."
+    },
+    {
+      "question": "What is the main material used to make the Bansuri?",
+      "options": ["Wood", "Bamboo", "Clay", "Stone"],
+      "answer": "Bamboo",
+      "explanation": "The Bansuri is traditionally crafted from bamboo, which gives it a unique, mellow sound."
+    },
+    {
+      "question": "Who plays the Bansuri in many Indian stories?",
+      "options": ["The lion", "Krishna", "A mouse", "A dog"],
+      "answer": "Krishna",
+      "explanation": "Lord Krishna is famous in Indian mythology for playing the Bansuri."
+    },
+    {
+      "question": "What is the Bansuri often played with?",
+      "options": ["A drum", "A guitar", "Your mouth", "Your feet"],
+      "answer": "Your mouth",
+      "explanation": "The Bansuri is a wind instrument, played by blowing air into it."
+    },
+    {
+      "question": "What does the Bansuri make people around you feel?",
+      "options": ["Sleepy", "Angry", "Happy and calm", "Hungry"],
+      "answer": "Happy and calm",
+      "explanation": "The Bansuri's soothing sound often evokes feelings of happiness and peace."
+    },
+    {
+      "question": "How is the Bansuri played?",
+      "options": ["You hit it", "You blow into it", "You shake it", "You tap it"],
+      "answer": "You blow into it",
+      "explanation": "To play the Bansuri, you blow into one end, covering holes to change notes."
+    },
+    {
+      "question": "What type of music does the Bansuri play in Indian classical music?",
+      "options": ["Calm and peaceful", "Fast and loud", "Dance music", "Pop music"],
+      "answer": "Calm and peaceful",
+      "explanation": "The Bansuri is primarily used in Indian classical music for calm and peaceful melodies."
+    },
+    {
+      "question": "What does the Bansuri’s sound remind people of?",
+      "options": ["A car", "Birds singing", "A motorcycle", "A bell ringing"],
+      "answer": "Birds singing",
+      "explanation": "The Bansuri’s sound is often compared to the soft, melodic sound of birds singing."
+    }
+  ]
+},
+{
+  "setNumber": 9,
+  "questions": [
+    {
+      "question": "Which story is the Bansuri connected to?",
+      "options": ["Krishna and Radha", "A tiger", "A rabbit", "A lion"],
+      "answer": "Krishna and Radha",
+      "explanation": "The Bansuri is central to the story of Krishna and Radha in Indian mythology."
+    },
+    {
+      "question": "How many pieces of bamboo are used to make the Bansuri?",
+      "options": ["One piece", "Two pieces", "Three pieces", "Four pieces"],
+      "answer": "One piece",
+      "explanation": "The Bansuri is traditionally made from a single piece of bamboo."
+    },
+    {
+      "question": "What kind of music is played on the Bansuri?",
+      "options": ["Loud rock", "Sweet and calm", "Dance music", "Fast music"],
+      "answer": "Sweet and calm",
+      "explanation": "The Bansuri is known for producing sweet, calm, and peaceful melodies."
+    },
+    {
+      "question": "What does the Bansuri help people to do?",
+      "options": ["Sing songs", "Make noise", "Play beautiful music", "Make pictures"],
+      "answer": "Play beautiful music",
+      "explanation": "The Bansuri allows people to play beautiful, calming music."
+    },
+    {
+      "question": "What is one way the Bansuri is used?",
+      "options": ["For painting", "For video games", "For making music", "For cooking food"],
+      "answer": "For making music",
+      "explanation": "The Bansuri is used as a musical instrument to create melodious tunes."
+    },
+    {
+      "question": "What is the Bansuri made to look like?",
+      "options": ["A big drum", "A long tube", "A big bell", "A guitar"],
+      "answer": "A long tube",
+      "explanation": "The Bansuri is a long, tubular bamboo flute."
+    },
+    {
+      "question": "What does the Bansuri sound like?",
+      "options": ["A bird singing", "A car horn", "A soft wind", "A loud bang"],
+      "answer": "A bird singing",
+      "explanation": "The Bansuri's sound is soft and melodic, often compared to birds singing."
+    },
+    {
+      "question": "Who loved playing the Bansuri in the stories?",
+      "options": ["Krishna", "The Rabbit", "Superman", "Elsa"],
+      "answer": "Krishna",
+      "explanation": "Lord Krishna is often depicted playing the Bansuri."
+    },
+    {
+      "question": "How long is a Bansuri usually?",
+      "options": ["5 inches", "14 inches", "30 inches", "50 inches"],
+      "answer": "14 inches",
+      "explanation": "A typical Bansuri is about 14 inches in length."
+    },
+    {
+      "question": "What do the holes in the Bansuri do?",
+      "options": ["Make it look nice", "Help make music", "Help it stand up", "Help it float"],
+      "answer": "Help make music",
+      "explanation": "The holes in the Bansuri allow for different notes when covered or uncovered."
+    }
+  ]
+},
+{
+  "setNumber": 10,
+  "questions": [
+    {
+      "question": "What is a Bansuri?",
+      "options": ["A type of toy", "A bamboo flute", "A big drum", "A type of guitar"],
+      "answer": "A bamboo flute",
+      "explanation": "The Bansuri is a traditional bamboo flute from India."
+    },
+    {
+      "question": "What is the Bansuri made from?",
+      "options": ["Wood", "Metal", "Bamboo", "Plastic"],
+      "answer": "Bamboo",
+      "explanation": "The Bansuri is typically crafted from bamboo."
+    },
+    {
+      "question": "How many holes does the Bansuri usually have?",
+      "options": ["Three", "Four", "Six or seven", "Ten"],
+      "answer": "Six or seven",
+      "explanation": "The Bansuri generally has six or seven holes to produce different notes."
+    },
+    {
+      "question": "What sound does the Bansuri make?",
+      "options": ["Loud and fast", "Soft and sweet", "Like a drum", "Like a bell"],
+      "answer": "Soft and sweet",
+      "explanation": "The Bansuri produces a soft and melodic sound."
+    },
+    {
+      "question": "Where is the Bansuri from?",
+      "options": ["China", "India", "America", "Africa"],
+      "answer": "India",
+      "explanation": "The Bansuri is a classical Indian instrument."
+    },
+    {
+      "question": "Who is famous for playing the Bansuri?",
+      "options": ["Mickey Mouse", "Lord Krishna", "Spider-Man", "Superman"],
+      "answer": "Lord Krishna",
+      "explanation": "Lord Krishna is often shown playing the Bansuri in Indian mythology."
+    },
+    {
+      "question": "What shape is the Bansuri?",
+      "options": ["Square", "Round", "Long and straight", "Curvy"],
+      "answer": "Long and straight",
+      "explanation": "The Bansuri is a long, straight bamboo flute."
+    },
+    {
+      "question": "What does 'Bansuri' mean in Sanskrit?",
+      "options": ["Bamboo flute", "Wooden drum", "Colorful guitar", "Little bell"],
+      "answer": "Bamboo flute",
+      "explanation": "In Sanskrit, 'Bansuri' translates to 'bamboo flute'."
+    },
+    {
+      "question": "What was the Bansuri used for in ancient times?",
+      "options": ["Talking to friends", "To play music", "To play video games", "To tell stories"],
+      "answer": "To play music",
+      "explanation": "The Bansuri has been used to play music for centuries."
+    },
+    {
+      "question": "What does the Bansuri make people feel?",
+      "options": ["Sad", "Angry", "Happy and peaceful", "Sleepy"],
+      "answer": "Happy and peaceful",
+      "explanation": "The soothing sound of the Bansuri often brings happiness and peace."
+    }
+  ]
+},
+{
+  "setNumber": 11,
+  "questions": [
+    {
+      "question": "What does adjusting the size and position of the finger holes on the bansuri control?",
+      "options": ["The volume of the flute", "The weight of the flute", "The notes it can play", "The color of the flute"],
+      "answer": "The notes it can play",
+      "explanation": "Adjusting the size and position of the holes determines the notes the bansuri can play."
+    },
+    {
+      "question": "What are the two types of tuning available for the bansuri?",
+      "options": ["Equal temperament and just intonation", "High pitch and low pitch", "Major and minor scales", "Harmonic and melodic scales"],
+      "answer": "Equal temperament and just intonation",
+      "explanation": "Bansuris can be tuned using either equal temperament or just intonation."
+    },
+    {
+      "question": "Why might a bansuri maker offer a tuning at 432 Hz?",
+      "options": ["It makes the flute louder", "It has healing properties", "It allows higher notes", "It's a popular standard"],
+      "answer": "It has healing properties",
+      "explanation": "Tuning at 432 Hz is believed by some to have calming or healing properties."
+    },
+    {
+      "question": "How should the bansuri be positioned when playing?",
+      "options": ["Vertically with top end up", "Horizontally at a slight angle", "Held upright like a recorder", "Parallel to the chest"],
+      "answer": "Horizontally at a slight angle",
+      "explanation": "The bansuri is held horizontally with a slight downward angle for proper play."
+    },
+    {
+      "question": "How much of the embouchure hole should your lips cover when blowing into the bansuri?",
+      "options": ["Half", "All of it", "About 1/5th", "None of it"],
+      "answer": "About 1/5th",
+      "explanation": "Covering about 1/5th of the embouchure hole produces a clear sound."
+    },
+    {
+      "question": "What technique is recommended to begin each note clearly on the bansuri?",
+      "options": ["Start with a 'Ta' syllable", "Blow harder on the flute", "Start with a 'Puh' syllable", "Tap the flute before each note"],
+      "answer": "Start with a 'Ta' syllable",
+      "explanation": "Starting with a 'Ta' syllable creates a crisp, clear note."
+    },
+    {
+      "question": "What is the Indian equivalent of the Western note 'C' on the bansuri?",
+      "options": ["Sa", "Ni", "Dha", "Pa"],
+      "answer": "Sa",
+      "explanation": "'Sa' is the Indian equivalent of the Western note 'C'."
+    },
+    {
+      "question": "What note is produced when all the holes on the bansuri are closed?",
+      "options": ["Sa", "Dha", "Pa", "Ni"],
+      "answer": "Pa",
+      "explanation": "Closing all holes on the bansuri produces the note 'Pa'."
+    },
+    {
+      "question": "How is the note 'Ri' produced on the bansuri?",
+      "options": ["By opening all holes", "By closing all holes", "By opening four holes", "By opening one hole"],
+      "answer": "By opening four holes",
+      "explanation": "The note 'Ri' is typically produced by opening four holes."
+    },
+    {
+      "question": "Which of the following is NOT recommended to maintain the bansuri?",
+      "options": ["Play it regularly", "Store it in a humid environment", "Store in a hot, dry place", "Warm it up before playing"],
+      "answer": "Store in a hot, dry place",
+      "explanation": "Storing the bansuri in a hot, dry place can damage the bamboo."
+    }
+  ]
+},
+{
+  "setNumber": 12,
+  "questions": [
+    {
+      "question": "Why is it essential to avoid excessive dryness for a bansuri?",
+      "options": ["Warp the bamboo", "Lead to cracking", "Harder to play", "Make it moldy"],
+      "answer": "Lead to cracking",
+      "explanation": "Excessive dryness can cause the bamboo to crack, damaging the bansuri."
+    },
+    {
+      "question": "What should you do if you notice mold inside your bansuri?",
+      "options": ["Ignore it", "Use dowel & mild soap", "Submerge in hot water", "Store in dry place"],
+      "answer": "Use dowel & mild soap",
+      "explanation": "Cleaning with a mild soap and cloth can help remove mold without damaging the bamboo."
+    },
+    {
+      "question": "At what temperature should you avoid playing the bansuri?",
+      "options": ["Above 30°C", "Below 15°C", "Humid environment", "Any cold temperature"],
+      "answer": "Below 15°C",
+      "explanation": "Playing the bansuri at cold temperatures can make it more prone to cracking."
+    },
+    {
+      "question": "Why should you let the bansuri adjust to room temperature before playing it?",
+      "options": ["Avoid warping", "Prevent cracking", "Sound louder", "Improve airflow"],
+      "answer": "Prevent cracking",
+      "explanation": "Allowing the bansuri to warm to room temperature helps avoid expansion and cracking of the bamboo."
+    },
+    {
+      "question": "Why is regular playing beneficial for a bansuri?",
+      "options": ["Prevent drying out", "Sharpens holes", "Keeps clean", "Stops expansion"],
+      "answer": "Prevent drying out",
+      "explanation": "Regular playing helps keep the bamboo hydrated and prevents it from becoming too dry."
+    },
+    {
+      "question": "What material is commonly used for tuning a bansuri before it is immersed in natural oils?",
+      "options": ["Wood polish", "Natural oils", "Vinegar", "Wax"],
+      "answer": "Natural oils",
+      "explanation": "Natural oils are commonly used to preserve and tune the bamboo bansuri."
+    },
+    {
+      "question": "Why is it important for bansuri makers to adjust the placement of the finger holes?",
+      "options": ["Balanced look", "Accurate pitch", "Decrease weight", "Enhance durability"],
+      "answer": "Accurate pitch",
+      "explanation": "The placement of the finger holes affects the pitch and purity of the notes."
+    },
+    {
+      "question": "In what way can a bansuri flute be customized for musicians?",
+      "options": ["Extra holes", "Alternative tunings", "Carved designs", "Color preference"],
+      "answer": "Alternative tunings",
+      "explanation": "The bansuri can be tuned to alternative frequencies, like 432 Hz, for a specific sound."
+    },
+    {
+      "question": "What is a key difference in blowing technique between the bansuri and a Western flute?",
+      "options": ["Blow harder", "Gentler angle", "Same technique", "Direct blowing"],
+      "answer": "Gentler angle",
+      "explanation": "A gentle blowing angle is required for the bansuri to produce its soft, melodic sound."
+    },
+    {
+      "question": "Why is it recommended to practice placing fingers on the holes carefully while learning the bansuri?",
+      "options": ["Accurate tone", "Lighter hold", "Prevent larger holes", "Keep balanced"],
+      "answer": "Accurate tone",
+      "explanation": "Carefully placing fingers helps with tone and pitch control, which is crucial for playing the bansuri."
+    }
+  ]
+},
+{
+  "setNumber": 13,
+  "questions": [
+    {
+      "question": "What happens if a bansuri player blows air too far down the flute?",
+      "options": ["Sound too loud", "Flute may crack", "Muffled tone", "High-pitched sound"],
+      "answer": "Muffled tone",
+      "explanation": "Blowing air too far down creates a muffled tone as the airflow isn't directed properly."
+    },
+    {
+      "question": "Why is starting each note with the syllable 'Puh' recommended on the bansuri?",
+      "options": ["Helps rhythm", "Clean note start", "Sounds louder", "Identifies note"],
+      "answer": "Clean note start",
+      "explanation": "Starting with 'Puh' provides a clear, clean beginning for each note."
+    },
+    {
+      "question": "How should a player adjust their embouchure when changing octaves on the bansuri?",
+      "options": ["Increase air", "Sharper angle", "Cover more hole", "Lighten pressure"],
+      "answer": "Sharper angle",
+      "explanation": "Adjusting to a sharper angle helps reach higher octaves with clarity."
+    },
+    {
+      "question": "Which swara is produced when only the bottom hole is opened on the bansuri?",
+      "options": ["Ni", "Pa", "Dha", "Sa"],
+      "answer": "Dha",
+      "explanation": "Opening only the bottom hole produces the swara 'Dha' on the bansuri."
+    },
+    {
+      "question": "What is the relationship between the swaras of the bansuri and Western notes?",
+      "options": ["No Western match", "Each has a note", "Used in chords", "Changes with temp"],
+      "answer": "Each has a note",
+      "explanation": "Each swara in Indian music corresponds to a specific Western note."
+    },
+    {
+      "question": "What note does a bansuri player achieve by opening all the finger holes?",
+      "options": ["Pa", "Sa", "Ga", "Ma"],
+      "answer": "Ma",
+      "explanation": "With all holes open, the note 'Ma' is produced on the bansuri."
+    },
+    {
+      "question": "What determines the fundamental or 'root' note of a bansuri?",
+      "options": ["Bamboo thickness", "Length & diameter", "Bamboo color", "Hole angle"],
+      "answer": "Length & diameter",
+      "explanation": "The length and inner diameter of the bansuri determine its root note."
+    },
+    {
+      "question": "How does opening and closing finger holes affect the pitch on the bansuri?",
+      "options": ["Open lowers pitch", "Open raises pitch", "No effect", "Embouchure only"],
+      "answer": "Open raises pitch",
+      "explanation": "More open holes produce higher notes, while closed holes lower the pitch."
+    },
+    {
+      "question": "What should be done if a bansuri is exposed to a very hot or dry environment?",
+      "options": ["Avoid moisture", "Cool slowly", "Submerge in water", "Cover holes"],
+      "answer": "Cool slowly",
+      "explanation": "Cooling the bansuri gradually prevents damage from sudden temperature changes."
+    },
+    {
+      "question": "Which of the following is most likely to cause cracks in a bansuri?",
+      "options": ["Regular playing", "Humid storage", "Sudden temperature", "Excess oil"],
+      "answer": "Sudden temperature",
+      "explanation": "Sudden temperature or dryness changes can cause cracks in the bamboo."
+    }
+  ]
 }
+
+
+
+
+
+
 
 
 ]  
