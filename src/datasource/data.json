@@ -12646,6 +12646,10 @@
 
 
 
+
+
+
+
 {
   "subtopicName": "Clarinet (Indian Style)",
   "description": [
@@ -16682,7 +16686,269 @@
       "explanation": "The Dhol is primarily used to create music, especially for dances and celebrations."
     }
   ]
+},
+{
+  "setNumber": 6,
+  "questions": [
+    {
+      "question": "Where does the sound of the Dhol go?",
+      "options": ["All around so people can hear it", "Only inside a house", "Only in a box", "Only in a quiet room"],
+      "answer": "All around so people can hear it",
+      "explanation": "The sound of the Dhol is loud and resonates in all directions, making it perfect for large gatherings and celebrations."
+    },
+    {
+      "question": "Why might people play the Dhol when a special guest arrives?",
+      "options": ["To welcome them with a big sound", "To make them feel sad", "To send them away", "To make them sleepy"],
+      "answer": "To welcome them with a big sound",
+      "explanation": "The Dhol is often played to joyfully welcome guests with a strong, energetic beat."
+    },
+    {
+      "question": "Which hand tool is often used to play the Dhol?",
+      "options": ["Drumsticks", "Forks", "Pens", "Spoons"],
+      "answer": "Drumsticks",
+      "explanation": "Drumsticks, or special wooden sticks, are commonly used to play the Dhol to produce its distinctive rhythmic sounds."
+    },
+    {
+      "question": "What might people do with their hands while dancing to the Dhol?",
+      "options": ["Clap or wave them", "Write a letter", "Fold them", "Put them in their pockets"],
+      "answer": "Clap or wave them",
+      "explanation": "Dancing to the Dhol often includes clapping and waving hands to match the energetic beat."
+    },
+    {
+      "question": "Why is the Dhol important for dance performances?",
+      "options": ["It keeps the rhythm for dancers", "It makes people sit down", "It stops the music", "It makes people go to bed"],
+      "answer": "It keeps the rhythm for dancers",
+      "explanation": "The Dhol provides a steady rhythm, essential for dancers to maintain their timing and energy."
+    },
+    {
+      "question": "Why might a Dhol player wear a special outfit?",
+      "options": ["To look nice and traditional", "To take a nap", "To clean up", "To go swimming"],
+      "answer": "To look nice and traditional",
+      "explanation": "Dhol players often wear traditional attire to enhance the cultural experience during performances."
+    },
+    {
+      "question": "What colors are often seen on Dhol drums?",
+      "options": ["Bright colors like red and blue", "Black and white only", "Green only", "Gray only"],
+      "answer": "Bright colors like red and blue",
+      "explanation": "Dhol drums are often decorated with bright colors to make them visually appealing during celebrations."
+    },
+    {
+      "question": "When a Dhol is played, what does it invite people to do?",
+      "options": ["Dance and join the celebration", "Be quiet", "Go home", "Sit down quietly"],
+      "answer": "Dance and join the celebration",
+      "explanation": "The lively beat of the Dhol invites people to dance and participate in the celebration."
+    },
+    {
+      "question": "What shape is the Dhol?",
+      "options": ["Cylinder shape", "Square shape", "Triangle shape", "Circle shape"],
+      "answer": "Cylinder shape",
+      "explanation": "The Dhol has a cylindrical shape, which helps amplify its deep, resonant sound."
+    },
+    {
+      "question": "How do Dhol players sometimes decorate their drums?",
+      "options": ["With colorful ribbons and decorations", "With food", "With books", "With blankets"],
+      "answer": "With colorful ribbons and decorations",
+      "explanation": "Dhol players often add colorful ribbons and decorations to their drums to make them more festive and attractive."
+    }
+  ]
+},
+{
+  "setNumber": 7,
+  "questions": [
+    {
+      "question": "What do people often do when they hear a Dhol?",
+      "options": ["They start dancing", "They go to sleep", "They run away", "They sit quietly"],
+      "answer": "They start dancing",
+      "explanation": "The lively beats of the Dhol naturally make people want to dance and join in the celebration."
+    },
+    {
+      "question": "Which part of the body is often used to play the Dhol?",
+      "options": ["Hands", "Feet", "Head", "Elbows"],
+      "answer": "Hands",
+      "explanation": "The Dhol is traditionally played with hands, using drumsticks to create rhythmic beats."
+    },
+    {
+      "question": "How does the Dhol make people feel at a festival?",
+      "options": ["Happy and excited", "Tired", "Quiet", "Sad"],
+      "answer": "Happy and excited",
+      "explanation": "The powerful, festive sound of the Dhol energizes people, creating a happy and excited atmosphere."
+    },
+    {
+      "question": "What sound does a Dhol make?",
+      "options": ["Boom Boom", "Ding Ding", "Whistle", "Ring Ring"],
+      "answer": "Boom Boom",
+      "explanation": "The Dhol produces a deep, resonant 'Boom Boom' sound that is ideal for energetic celebrations."
+    },
+    {
+      "question": "Which celebration might you hear a Dhol?",
+      "options": ["Holi", "Exam time", "Bedtime", "Quiet time"],
+      "answer": "Holi",
+      "explanation": "The Dhol is commonly played at festivals like Holi, adding excitement to the celebration."
+    },
+    {
+      "question": "Why might people play the Dhol on Independence Day?",
+      "options": ["To show pride and celebrate freedom", "To make it quiet", "To watch a movie", "To make everyone sleepy"],
+      "answer": "To show pride and celebrate freedom",
+      "explanation": "The Dhol is played on Independence Day to express pride and joy in celebrating national freedom."
+    },
+    {
+      "question": "What happens when a Dhol is played loudly?",
+      "options": ["It grabs everyone’s attention", "It makes people leave", "It makes people sleep", "It’s very quiet"],
+      "answer": "It grabs everyone’s attention",
+      "explanation": "The loud, commanding sound of the Dhol captures the attention of everyone around, adding to the excitement."
+    },
+    {
+      "question": "Why do kids like to see the Dhol being played?",
+      "options": ["It’s loud and fun", "It’s very quiet", "It makes them sleepy", "It makes them sad"],
+      "answer": "It’s loud and fun",
+      "explanation": "The Dhol's lively sound and vibrant playing style make it a favorite for kids who enjoy its fun energy."
+    },
+    {
+      "question": "What might people wear when they play the Dhol?",
+      "options": ["Traditional clothes", "Pajamas", "Swimwear", "Uniform"],
+      "answer": "Traditional clothes",
+      "explanation": "Dhol players often wear traditional clothes to celebrate cultural pride and enhance the festive spirit."
+    },
+    {
+      "question": "What is a group of Dhol players called?",
+      "options": ["A Dhol band", "A dance team", "A school", "A choir"],
+      "answer": "A Dhol band",
+      "explanation": "A group of Dhol players is often called a Dhol band, performing together to create rhythmic music."
+    }
+  ]
+},
+{
+  "setNumber": 8,
+  "questions": [
+    {
+      "question": "Why is the Dhol important in festivals like Baisakhi?",
+      "options": ["To celebrate the harvest season", "To keep quiet", "To go to bed early", "To study"],
+      "answer": "To celebrate the harvest season",
+      "explanation": "The Dhol is played during Baisakhi to celebrate the harvest season, adding energy and excitement to the festival."
+    },
+    {
+      "question": "Why do children like the sound of the Dhol?",
+      "options": ["It’s fun and exciting", "It makes them sad", "It’s too quiet", "It makes them sleepy"],
+      "answer": "It’s fun and exciting",
+      "explanation": "The Dhol's loud and lively sound is fun and exciting for children, making it a popular instrument at festivals."
+    },
+    {
+      "question": "Why is the Dhol played at big family gatherings?",
+      "options": ["To add happiness and joy", "To make people sad", "To stop the music", "To be very quiet"],
+      "answer": "To add happiness and joy",
+      "explanation": "The Dhol brings happiness and joy to family gatherings, helping everyone celebrate together."
+    },
+    {
+      "question": "What is a good reason to play the Dhol on someone's birthday?",
+      "options": ["To celebrate their special day", "To scare them", "To make them feel sad", "To put them to sleep"],
+      "answer": "To celebrate their special day",
+      "explanation": "Playing the Dhol adds excitement to a birthday celebration, making the day feel even more special."
+    },
+    {
+      "question": "Why do people play the Dhol before a sports match?",
+      "options": ["To cheer for their team", "To make people leave", "To go to bed", "To read a book"],
+      "answer": "To cheer for their team",
+      "explanation": "Playing the Dhol before a sports match raises team spirit and cheers on the players and fans."
+    },
+    {
+      "question": "When might a Dhol be used to make a special announcement?",
+      "options": ["To gather people’s attention", "To scare people away", "To end the day", "To watch TV"],
+      "answer": "To gather people’s attention",
+      "explanation": "The loud sound of the Dhol is used to grab people's attention, making it useful for special announcements."
+    },
+    {
+      "question": "Why do people sometimes play the Dhol when a new building opens?",
+      "options": ["To celebrate the new building", "To take a nap", "To close the building", "To cook food"],
+      "answer": "To celebrate the new building",
+      "explanation": "Playing the Dhol adds to the celebratory atmosphere when a new building is inaugurated."
+    },
+    {
+      "question": "Why do people like hearing the Dhol during a festival parade?",
+      "options": ["It makes them feel excited and happy", "It makes them feel sleepy", "It’s very quiet", "It makes them sad"],
+      "answer": "It makes them feel excited and happy",
+      "explanation": "The lively beat of the Dhol makes festival parades feel exciting and joyous, encouraging people to join in the celebration."
+    },
+    {
+      "question": "Why is the Dhol played in traditional dances?",
+      "options": ["To keep the rhythm for dancers", "To make the dance stop", "To play quietly", "To sing a lullaby"],
+      "answer": "To keep the rhythm for dancers",
+      "explanation": "The Dhol sets the rhythm in traditional dances, helping dancers stay in sync with the music."
+    },
+    {
+      "question": "Why do people play the Dhol during Holi celebrations?",
+      "options": ["To add joy to the festival of colors", "To keep everything quiet", "To stop people from dancing", "To make people sleepy"],
+      "answer": "To add joy to the festival of colors",
+      "explanation": "The Dhol enhances the joyful atmosphere of Holi, encouraging people to celebrate the festival of colors with dance and music."
+    }
+  ]
+},
+{
+  "setNumber": 9,
+  "questions": [
+    {
+      "question": "Why do people play the Dhol at weddings?",
+      "options": ["To make everyone sleepy", "To create a joyful celebration", "To keep it quiet", "To play a game"],
+      "answer": "To create a joyful celebration",
+      "explanation": "The Dhol is played at weddings to create a lively and joyful atmosphere, making the event memorable."
+    },
+    {
+      "question": "When do people play the Dhol during festivals?",
+      "options": ["To wake everyone up", "To add excitement and fun to the event", "To make the festival short", "To stop the music"],
+      "answer": "To add excitement and fun to the event",
+      "explanation": "The Dhol adds energy and excitement to festivals, encouraging people to celebrate together."
+    },
+    {
+      "question": "What is a Dhol often used for at parades?",
+      "options": ["To lead the parade with rhythm", "To play a game", "To be very quiet", "To make food"],
+      "answer": "To lead the parade with rhythm",
+      "explanation": "The Dhol provides rhythm and energy, often leading the parade and encouraging others to follow."
+    },
+    {
+      "question": "Why do people play the Dhol on happy occasions?",
+      "options": ["To celebrate happiness", "To make people sad", "To stop the fun", "To be silent"],
+      "answer": "To celebrate happiness",
+      "explanation": "The Dhol helps amplify the joy of happy occasions, bringing people together to celebrate."
+    },
+    {
+      "question": "What feeling does the Dhol create at a party?",
+      "options": ["Excitement and energy", "Calmness", "Sleepiness", "Sadness"],
+      "answer": "Excitement and energy",
+      "explanation": "The Dhol's beat creates a lively and energetic atmosphere, perfect for dancing and celebration."
+    },
+    {
+      "question": "When someone graduates, why might they play the Dhol?",
+      "options": ["To celebrate their achievement", "To make them nervous", "To be very quiet", "To do homework"],
+      "answer": "To celebrate their achievement",
+      "explanation": "Graduation is a significant achievement, and the Dhol is played to mark this joyful milestone."
+    },
+    {
+      "question": "Why is the Dhol played at New Year's celebrations?",
+      "options": ["To welcome the New Year with excitement", "To end the party", "To go to sleep", "To do schoolwork"],
+      "answer": "To welcome the New Year with excitement",
+      "explanation": "The Dhol's vibrant sound welcomes the New Year with excitement and positivity."
+    },
+    {
+      "question": "Why do people play the Dhol at a cultural event?",
+      "options": ["To show tradition and culture", "To play alone", "To be very quiet", "To cook food"],
+      "answer": "To show tradition and culture",
+      "explanation": "Playing the Dhol at cultural events highlights tradition and preserves cultural heritage."
+    },
+    {
+      "question": "What does the Dhol sound remind people of?",
+      "options": ["Happy celebrations", "A sad movie", "A library", "A silent night"],
+      "answer": "Happy celebrations",
+      "explanation": "The Dhol's upbeat sound is often associated with joyful celebrations and gatherings."
+    },
+    {
+      "question": "What do people feel like doing when they hear the Dhol?",
+      "options": ["Dancing and celebrating", "Sleeping", "Reading a book", "Drawing a picture"],
+      "answer": "Dancing and celebrating",
+      "explanation": "The Dhol's lively beat makes people want to dance and celebrate together."
+    }
+  ]
 }
+
+
 
 ]  
 },
@@ -17019,11 +17285,402 @@
       "explanation": "The Ghatam is classified as a percussion instrument because it is played by striking it to produce sound."
     }
   ]
-}
-
-    
-  ]  
 },
+{
+  "setNumber": 5,
+  "questions": [
+    {
+      "question": "What is the traditional method of learning ghatam in Carnatic music?",
+      "options": ["Self-learning", "Guru-shishya", "Online tutorials", "Peer learning"],
+      "answer": "Guru-shishya",
+      "explanation": "In Carnatic music, the traditional method of learning the ghatam is through the Guru-shishya parampara, where students learn directly from a master."
+    },
+    {
+      "question": "What does the ghatam symbolize in South Indian culture?",
+      "options": ["Wealth", "Fertility", "Spirituality", "Tradition"],
+      "answer": "Fertility",
+      "explanation": "The ghatam is often associated with fertility and prosperity in South Indian culture, symbolizing abundance."
+    },
+    {
+      "question": "What is the primary challenge of playing the ghatam?",
+      "options": ["Tuning", "Maintaining pitch", "Correct striking", "Hand positioning"],
+      "answer": "Correct striking",
+      "explanation": "The primary challenge in playing the ghatam is the correct striking technique, which is essential for producing the desired tones."
+    },
+    {
+      "question": "What is one method of cleaning the ghatam?",
+      "options": ["Soap and water", "Metal brush", "Wiping with oil", "Ultrasonic cleaning"],
+      "answer": "Wiping with oil",
+      "explanation": "The ghatam is often cleaned by wiping it with oil to maintain its sheen and prevent damage to the clay surface."
+    },
+    {
+      "question": "What part of the ghatam does a player tap to produce sharp, high-pitched sounds?",
+      "options": ["The neck", "The rim", "The body", "The bottom"],
+      "answer": "The rim",
+      "explanation": "The player taps the rim of the ghatam to produce sharp, high-pitched sounds, adding a distinctive texture to the rhythm."
+    },
+    {
+      "question": "What is the difference between the sound of a ghatam and that of a dholak?",
+      "options": ["Softer dholak", "Metallic ghatam", "Ghatam pitched", "Dholak electronic"],
+      "answer": "Metallic ghatam",
+      "explanation": "The ghatam has a metallic sound due to its clay and metal construction, whereas the dholak has a softer, more resonant tone."
+    },
+    {
+      "question": "Which part of the ghatam does the player strike to create a soft sound?",
+      "options": ["Body", "Rim", "Mouth", "Bottom"],
+      "answer": "Body",
+      "explanation": "To create a soft sound, the player strikes the body of the ghatam, which produces a more muted tone compared to the rim."
+    },
+    {
+      "question": "What is the role of the ghatam in Carnatic music?",
+      "options": ["Melody", "Rhythm", "Harmony", "Solo"],
+      "answer": "Rhythm",
+      "explanation": "The ghatam primarily plays a role in providing rhythm in Carnatic music, adding texture and depth to the percussion ensemble."
+    },
+    {
+      "question": "What kind of clay is used in ghatam manufacturing?",
+      "options": ["Red clay", "Mud clay", "Fired clay", "Fine pottery"],
+      "answer": "Red clay",
+      "explanation": "The ghatam is traditionally made from red clay, which is molded into the characteristic shape and then fired to harden."
+    },
+    {
+      "question": "What is the primary function of the ghatam in a percussion ensemble?",
+      "options": ["Lead instrument", "Timekeeping", "Rhythmic texture", "Harmony"],
+      "answer": "Rhythmic texture",
+      "explanation": "The primary function of the ghatam in a percussion ensemble is to add rhythmic texture, complementing the other instruments in the group."
+    }
+  ]
+},
+{
+  "setNumber": 6,
+  "questions": [
+    {
+      "question": "What type of clay is used to make the best-quality ghatams?",
+      "options": ["Red clay", "Mud clay", "Fired clay", "Fine pottery"],
+      "answer": "Red clay",
+      "explanation": "Red clay is traditionally used to make high-quality ghatams due to its ideal texture and resonance after being fired."
+    },
+    {
+      "question": "Which part of the ghatam does the player strike to create bass sounds?",
+      "options": ["The body", "The rim", "The base", "The bottom"],
+      "answer": "The body",
+      "explanation": "To produce deep, bass sounds, the player strikes the body of the ghatam, which creates a rich, resonant tone."
+    },
+    {
+      "question": "What is the purpose of the holes or indentations on the ghatam's surface?",
+      "options": ["Decoration", "Alter pitch", "Sound texture", "Assist tuning"],
+      "answer": "Sound texture",
+      "explanation": "The holes or indentations on the ghatam's surface help to alter the texture and quality of the sound produced by the instrument."
+    },
+    {
+      "question": "What does 'konnakol' refer to in Carnatic music?",
+      "options": ["Vocal rhythm", "A type of ghatam", "Dance style", "Special drum"],
+      "answer": "Vocal rhythm",
+      "explanation": "Konnakol is a form of vocal percussion in Carnatic music, where rhythmic syllables are chanted to accompany instrumental performances."
+    },
+    {
+      "question": "What kind of sound does the ghatam produce when struck with the fingers near the mouth?",
+      "options": ["Low rumble", "Metallic", "High-pitched", "Muted sound"],
+      "answer": "High-pitched",
+      "explanation": "When struck near the mouth, the ghatam produces a sharp, high-pitched sound, adding a distinct tonal element to the performance."
+    },
+    {
+      "question": "What role does the ghatam play in solo performances?",
+      "options": ["Background", "Melody", "Central rhythm", "Harmonies"],
+      "answer": "Central rhythm",
+      "explanation": "In solo performances, the ghatam serves as the central rhythm instrument, providing a foundation for the music with its distinctive beats."
+    },
+    {
+      "question": "What sound does the ghatam produce when struck with the palms of the hands?",
+      "options": ["Soft bass", "High ringing", "Resonant", "Muted"],
+      "answer": "Resonant",
+      "explanation": "When struck with the palms of the hands, the ghatam produces a resonant sound that enhances the rhythmic texture of the music."
+    },
+    {
+      "question": "What is the effect of pressing the ghatam against the player’s stomach?",
+      "options": ["Mute sound", "Deep tone", "Change pitch", "Increase volume"],
+      "answer": "Deep tone",
+      "explanation": "Pressing the ghatam against the player's stomach deepens the tone, creating a fuller sound during the performance."
+    },
+    {
+      "question": "What technique does a ghatam player use to create a rolling rhythm effect?",
+      "options": ["Quick hand movements", "Striking quickly", "Changing pressure", "Circular motion"],
+      "answer": "Circular motion",
+      "explanation": "A ghatam player creates a rolling rhythm effect by using circular motions with their hands to vary the speed and intensity of the strikes."
+    },
+    {
+      "question": "Which of the following countries outside India also uses ghatam-like instruments in their music?",
+      "options": ["Pakistan", "Sri Lanka", "Nepal", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "Countries like Pakistan, Sri Lanka, and Nepal also use similar clay percussion instruments in their musical traditions, often in forms similar to the ghatam."
+    }
+  ]
+},
+{
+  "setNumber": 7,
+  "questions": [
+    {
+      "question": "What type of event is the ghatam most commonly associated with?",
+      "options": ["Weddings", "Festivals", "Concerts", "Solo performances"],
+      "answer": "Festivals",
+      "explanation": "The ghatam is commonly associated with festivals, where it is played to add rhythm and excitement to the celebrations."
+    },
+    {
+      "question": "How does the ghatam contribute to the texture of a Carnatic percussion ensemble?",
+      "options": ["Melody", "Main rhythm", "Rhythm variety", "Harmonies"],
+      "answer": "Rhythm variety",
+      "explanation": "The ghatam adds rhythmic variety to the Carnatic percussion ensemble, enriching the overall sound and texture with its distinctive tones."
+    },
+    {
+      "question": "What is the traditional method of manufacturing a ghatam?",
+      "options": ["Molded clay", "Carved wood", "Cast metal", "Machine-pressed"],
+      "answer": "Molded clay",
+      "explanation": "The traditional method of manufacturing a ghatam involves molding clay, which is then fired to produce the desired tonal quality."
+    },
+    {
+      "question": "What does a player do to produce a softer, more muffled sound on the ghatam?",
+      "options": ["Strike gently", "Use mallet", "Press against chest", "Cover opening"],
+      "answer": "Press against chest",
+      "explanation": "To produce a softer, muffled sound, a ghatam player presses the instrument against their chest, which dampens the vibrations."
+    },
+    {
+      "question": "Which of the following ghatam players is famous for their contributions to the instrument in Carnatic music?",
+      "options": ["T.V. Gopalakrishnan", "Zubin Mehta", "Vikku Vinayakram", "Ravi Shankar"],
+      "answer": "Vikku Vinayakram",
+      "explanation": "Vikku Vinayakram is a legendary ghatam player known for his contributions to Carnatic music and his innovative playing style."
+    },
+    {
+      "question": "What is the name of the festival where ghatam performances are frequently showcased?",
+      "options": ["Sankranti", "Margazhi Fest", "Diwali", "Holi"],
+      "answer": "Margazhi Fest",
+      "explanation": "The Margazhi Festival is a major cultural event in Tamil Nadu, where ghatam performances, along with other Carnatic music performances, are frequently showcased."
+    },
+    {
+      "question": "Which of the following instruments is often used to accompany the ghatam in a Carnatic concert?",
+      "options": ["Drums", "Mridangam", "Guitar", "Violin"],
+      "answer": "Mridangam",
+      "explanation": "The Mridangam, another percussion instrument, is often used alongside the ghatam in Carnatic concerts to provide rhythm and depth to the performance."
+    },
+    {
+      "question": "What is one of the common symbols associated with the ghatam?",
+      "options": ["Lotus flower", "Lion", "Sun", "Drumstick"],
+      "answer": "Lotus flower",
+      "explanation": "The lotus flower is a common symbol associated with the ghatam, representing purity and tradition in South Indian culture."
+    },
+    {
+      "question": "What is the origin of the ghatam?",
+      "options": ["Persian", "African", "Indian", "Central Asian"],
+      "answer": "Indian",
+      "explanation": "The ghatam is of Indian origin and is a traditional percussion instrument in Carnatic music, with roots in ancient Indian culture."
+    },
+    {
+      "question": "In a traditional Carnatic concert, how is the ghatam used during the main raga performance?",
+      "options": ["Harmony", "Rhythm support", "Melody", "Timekeeping"],
+      "answer": "Rhythm support",
+      "explanation": "In a traditional Carnatic concert, the ghatam is used to provide rhythm support, complementing the melody and other percussion instruments in the ensemble."
+    }
+  ]
+},
+{
+  "setNumber": 8,
+  "questions": [
+    {
+      "question": "What is the primary shape of the ghatam?",
+      "options": ["Oval", "Cylindrical", "Conical", "Spherical"],
+      "answer": "Spherical",
+      "explanation": "The ghatam has a spherical shape, which is ideal for resonating sound when struck."
+    },
+    {
+      "question": "How is the ghatam traditionally positioned when played?",
+      "options": ["Held by hand", "On the shoulder", "On the lap", "Hanging"],
+      "answer": "On the lap",
+      "explanation": "The ghatam is traditionally placed on the player's lap while being played to achieve the best tonal quality."
+    },
+    {
+      "question": "Which ancient civilization is believed to have used the ghatam?",
+      "options": ["Egyptian", "Greek", "Indian", "Roman"],
+      "answer": "Indian",
+      "explanation": "The ghatam has ancient origins in India and has been an integral part of traditional Carnatic music."
+    },
+    {
+      "question": "What is the standard number of ghatams used in a typical Carnatic music ensemble?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answer": "One",
+      "explanation": "Typically, one ghatam is used in a Carnatic music ensemble, providing rhythm and percussive texture."
+    },
+    {
+      "question": "What is the role of the ghatam in the rhythm section of a Carnatic performance?",
+      "options": ["Melody", "Improvisation", "Rhythm support", "Harmonies"],
+      "answer": "Rhythm support",
+      "explanation": "In a Carnatic performance, the ghatam's role is to provide rhythm support, complementing the mridangam and other percussion instruments."
+    },
+    {
+      "question": "Which part of the ghatam does the player strike to create a sharp, percussive sound?",
+      "options": ["The body", "The mouth", "The rim", "The bottom"],
+      "answer": "The rim",
+      "explanation": "The ghatam player strikes the rim to produce a sharp, percussive sound, which contrasts with the softer tones from other parts of the instrument."
+    },
+    {
+      "question": "What is a common technique used by ghatam players to create a variety of sounds?",
+      "options": ["Miking", "Striking parts", "Digital processor", "Pressing keys"],
+      "answer": "Striking parts",
+      "explanation": "Ghatam players create a variety of sounds by striking different parts of the instrument, such as the body, rim, and mouth."
+    },
+    {
+      "question": "Which of the following is often used in conjunction with the ghatam during a traditional performance?",
+      "options": ["Electronic drums", "Tanpura", "Violin", "Guitar"],
+      "answer": "Violin",
+      "explanation": "The violin is often used in conjunction with the ghatam during Carnatic performances, as both instruments complement each other in providing rhythm and melody."
+    },
+    {
+      "question": "What is a common misconception about the ghatam?",
+      "options": ["Made of plastic", "Electronic", "Folk music only", "A string instrument"],
+      "answer": "Made of plastic",
+      "explanation": "A common misconception is that the ghatam is made of plastic, but it is traditionally made from clay."
+    },
+    {
+      "question": "What is the ghatam player's primary method for tuning the instrument?",
+      "options": ["Stretching skin", "Adjusting clay", "Pressing chest", "Electronic tuners"],
+      "answer": "Adjusting clay",
+      "explanation": "The primary method for tuning a ghatam is by adjusting the clay around the opening or body, which affects the pitch and tone."
+    }
+  ]
+},
+{
+  "setNumber": 9,
+  "questions": [
+    {
+      "question": "What is the traditional method of learning ghatam in Carnatic music?",
+      "options": ["Self-learning", "Guru-shishya parampara", "Online tutorials", "Peer learning"],
+      "answer": "Guru-shishya parampara",
+      "explanation": "The traditional method of learning ghatam involves the guru-shishya parampara, a teacher-student tradition, where students learn directly from an experienced teacher."
+    },
+    {
+      "question": "What does 'konnakol' refer to in Carnatic music?",
+      "options": ["Rhythmic vocal technique", "A type of ghatam", "A dance style", "A special kind of drum"],
+      "answer": "Rhythmic vocal technique",
+      "explanation": "'Konnakol' is a rhythmic vocal technique used in Carnatic music, often accompanied by percussion instruments like the ghatam."
+    },
+    {
+      "question": "What kind of sound does the ghatam produce when struck with the fingers near the mouth?",
+      "options": ["Low rumble", "Sharp metallic sound", "High-pitched sound", "Hollow muted sound"],
+      "answer": "High-pitched sound",
+      "explanation": "When struck with the fingers near the mouth, the ghatam produces a high-pitched, resonant sound due to the vibrations around the opening."
+    },
+    {
+      "question": "What role does the ghatam play in solo performances?",
+      "options": ["Background", "Accompaniment", "Central role", "Never used"],
+      "answer": "Central role",
+      "explanation": "In solo performances, the ghatam takes a central role, creating intricate rhythms and providing space for improvisation."
+    },
+    {
+      "question": "What sound does the ghatam produce when struck with the palms of the hands?",
+      "options": ["Soft deep bass", "High-pitched sound", "Sharp resonant sound", "Muted low sound"],
+      "answer": "Sharp resonant sound",
+      "explanation": "Striking the ghatam with the palms produces a sharp and resonant sound, contrasting with the other techniques of striking."
+    },
+    {
+      "question": "What is the origin of the ghatam?",
+      "options": ["Persian", "African", "Indian", "Central Asian"],
+      "answer": "Indian",
+      "explanation": "The ghatam originated in India, where it has been used for centuries in Carnatic music and other traditional music forms."
+    },
+    {
+      "question": "In a traditional Carnatic concert, how is the ghatam used during the main raga performance?",
+      "options": ["Harmonic support", "Rhythmic support", "Melodic instrument", "Timekeeping"],
+      "answer": "Rhythmic support",
+      "explanation": "During a main raga performance, the ghatam provides rhythmic support and enhances the texture of the percussion ensemble."
+    },
+    {
+      "question": "What type of clay is used to make the best-quality ghatams?",
+      "options": ["Red clay", "Mud clay", "Fired clay", "Pottery clay"],
+      "answer": "Fired clay",
+      "explanation": "The best-quality ghatams are made from fired clay, which offers the necessary tonal quality and durability for performances."
+    },
+    {
+      "question": "Which part of the ghatam does the player strike to create bass sounds?",
+      "options": ["The body", "The rim", "The base", "The bottom"],
+      "answer": "The bottom",
+      "explanation": "The player strikes the bottom of the ghatam to create bass sounds, which contribute to the depth of the rhythm."
+    },
+    {
+      "question": "What is the purpose of the holes or indentations on the ghatam's surface?",
+      "options": ["Decoration", "Alter pitch", "Change texture", "Assist tuning"],
+      "answer": "Change texture",
+      "explanation": "The holes or indentations on the surface of the ghatam help to modify the texture of the sound, adding variety to the tones produced."
+    }
+  ]
+},
+{
+  "setNumber": 10,
+  "questions": [
+    {
+      "question": "What is the primary shape of the ghatam?",
+      "options": ["Oval", "Cylindrical", "Conical", "Spherical"],
+      "answer": "Spherical",
+      "explanation": "The ghatam has a spherical shape, which contributes to its unique sound resonance and tonal quality."
+    },
+    {
+      "question": "How is the ghatam traditionally positioned when played?",
+      "options": ["Held by hand", "Resting on shoulder", "On lap or cloth", "Hanging from stand"],
+      "answer": "On lap or cloth",
+      "explanation": "The ghatam is traditionally played while resting on the player's lap or on a cloth base, allowing for easy striking."
+    },
+    {
+      "question": "Which ancient civilization is believed to have used the ghatam?",
+      "options": ["Egyptian", "Greek", "Indian", "Roman"],
+      "answer": "Indian",
+      "explanation": "The ghatam originated in ancient India and has been used in traditional Carnatic music for centuries."
+    },
+    {
+      "question": "What is the standard number of ghatams used in a typical Carnatic music ensemble?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answer": "One",
+      "explanation": "In a typical Carnatic music ensemble, one ghatam is used to provide rhythmic support and texture."
+    },
+    {
+      "question": "What is the role of the ghatam in the rhythm section of a Carnatic performance?",
+      "options": ["Providing melody", "Adding improvisation", "Supporting mridangam", "Playing harmonies"],
+      "answer": "Supporting mridangam",
+      "explanation": "The ghatam supports the mridangam in the rhythm section, adding variety and texture to the percussion ensemble."
+    },
+    {
+      "question": "Which part of the ghatam does the player strike to create a sharp, percussive sound?",
+      "options": ["The body", "The mouth", "The rim", "The bottom"],
+      "answer": "The rim",
+      "explanation": "The rim of the ghatam is often struck to produce a sharp, percussive sound that adds to the texture of the rhythm."
+    },
+    {
+      "question": "What is a common technique used by ghatam players to create a variety of sounds?",
+      "options": ["Miking instrument", "Striking parts", "Using digital processor", "Pressing keys"],
+      "answer": "Striking parts",
+      "explanation": "Ghatam players create a variety of sounds by striking different parts of the instrument, such as the rim, body, or mouth."
+    },
+    {
+      "question": "Which of the following is often used in conjunction with the ghatam during a traditional performance?",
+      "options": ["Electronic drums", "Tanpura", "Violin", "Guitar"],
+      "answer": "Tanpura",
+      "explanation": "The tanpura is often used alongside the ghatam to provide a drone and harmonic support during Carnatic performances."
+    },
+    {
+      "question": "What is a common misconception about the ghatam?",
+      "options": ["Made of plastic", "Electronic instrument", "Folk music only", "String instrument"],
+      "answer": "Made of plastic",
+      "explanation": "A common misconception is that the ghatam is made of plastic, but it is actually made from clay, which gives it its distinctive tone."
+    },
+    {
+      "question": "What is a ghatam player's primary method for tuning the instrument?",
+      "options": ["Stretching skin", "Adjusting clay", "Pressing chest", "Using tuners"],
+      "answer": "Adjusting clay",
+      "explanation": "The pitch of the ghatam is adjusted by modifying the amount of clay used during its construction or by pressing on the body."
+    }
+  ]
+}    
+]  
+},
+
+
+
 {
   "subtopicName": "Khol",
   "description": [
@@ -17357,13 +18014,336 @@
       "explanation": "The Khol is typically played at classical concerts and cultural festivals, where its rhythmic sound enhances the atmosphere."
     }
   ]
-}
-
-
-
-    
-  ]  
 },
+{
+  "setNumber": 6,
+  "questions": [
+    {
+      "question": "What is the khol?",
+      "options": ["Type of drum", "Type of guitar", "Type of flute", "Type of tambourine"],
+      "answer": "Type of drum",
+      "explanation": "The khol is a traditional Indian percussion instrument, often used in folk music."
+    },
+    {
+      "question": "Where is the khol used?",
+      "options": ["In India", "In China", "In America", "In Africa"],
+      "answer": "In India",
+      "explanation": "The khol is predominantly used in India, especially in Bengali folk music."
+    },
+    {
+      "question": "What material is the khol made of?",
+      "options": ["Plastic", "Wood", "Terracotta", "Metal"],
+      "answer": "Terracotta",
+      "explanation": "The khol is traditionally made of terracotta, which gives it a distinctive tone."
+    },
+    {
+      "question": "What do we call the two sides of the khol?",
+      "options": ["Big and small side", "Left and right side", "Top and bottom side", "High and low side"],
+      "answer": "Big and small side",
+      "explanation": "The khol has a large side and a smaller side, each producing different sounds."
+    },
+    {
+      "question": "What does the big side of the khol sound like?",
+      "options": ["High and sharp", "Low and bass", "Soft and quiet", "Loud and noisy"],
+      "answer": "Low and bass",
+      "explanation": "The big side of the khol produces a deep, bass sound."
+    },
+    {
+      "question": "What do players use to play the khol?",
+      "options": ["Mallets", "Hands and fingers", "A bow", "Drumsticks"],
+      "answer": "Hands and fingers",
+      "explanation": "Players use their hands and fingers to strike the khol to produce rhythmic sounds."
+    },
+    {
+      "question": "What can players do to make the khol sound lower?",
+      "options": ["Add water", "Hit it harder", "Play faster", "Play slower"],
+      "answer": "Add water",
+      "explanation": "Adding water to the khol can lower its pitch and produce deeper sounds."
+    },
+    {
+      "question": "What is the skin of the khol drum made from?",
+      "options": ["Cow or goat skin", "Plastic", "Wood", "Cloth"],
+      "answer": "Cow or goat skin",
+      "explanation": "The skin of the khol drum is typically made from cow or goat skin."
+    },
+    {
+      "question": "What is the circle around the khol's drumhead made of?",
+      "options": ["Rice paste and glue", "Paint", "Gold", "Plastic"],
+      "answer": "Rice paste and glue",
+      "explanation": "The circle around the khol's drumhead is made from rice paste and glue, adding tension to the drumhead."
+    },
+    {
+      "question": "What kind of sound does the small side of the khol make?",
+      "options": ["Low and quiet", "High and sharp", "Soft and gentle", "Loud and bass"],
+      "answer": "High and sharp",
+      "explanation": "The small side of the khol produces a sharp, high-pitched sound."
+    }
+  ]
+},
+{
+  "setNumber": 7,
+  "questions": [
+    {
+      "question": "Which part of India is the khol most popular in?",
+      "options": ["Odisha", "Rajasthan", "Delhi", "Punjab"],
+      "answer": "Odisha",
+      "explanation": "The khol is most commonly used in Odisha, particularly in traditional music and dance performances."
+    },
+    {
+      "question": "What is the khol used for in temples?",
+      "options": ["To make food", "For singing and praying", "To play games", "To decorate"],
+      "answer": "For singing and praying",
+      "explanation": "In temples, the khol is often used to accompany devotional singing and prayers."
+    },
+    {
+      "question": "Who is famous for using the khol in their music?",
+      "options": ["Sankardeva", "Tansen", "Beethoven", "Mozart"],
+      "answer": "Sankardeva",
+      "explanation": "Sankardeva, a saint and cultural icon of Assam, is known for incorporating the khol in his devotional music."
+    },
+    {
+      "question": "What kind of music does the khol play with?",
+      "options": ["Rock music", "Devotional music", "Pop music", "Jazz music"],
+      "answer": "Devotional music",
+      "explanation": "The khol is primarily used in devotional and classical music, particularly in religious ceremonies."
+    },
+    {
+      "question": "What do we call the songs played with the khol?",
+      "options": ["Kirtan", "Rock 'n' roll", "Hip hop", "Jazz"],
+      "answer": "Kirtan",
+      "explanation": "Kirtan refers to the devotional songs sung in praise of deities, often accompanied by the khol."
+    },
+    {
+      "question": "What is the khol used for in a dance called Sattriya?",
+      "options": ["To help with singing", "To keep the beat", "To play melodies", "To make the dancers jump"],
+      "answer": "To keep the beat",
+      "explanation": "In the Sattriya dance, the khol helps keep the rhythm and supports the performance."
+    },
+    {
+      "question": "How is the khol used in a play?",
+      "options": ["To tell a story", "For dancing", "To make sounds for the play", "To give food to the actors"],
+      "answer": "To make sounds for the play",
+      "explanation": "The khol is used in plays to provide rhythmic sound effects and enhance the atmosphere."
+    },
+    {
+      "question": "What is the khol used for in ISKCON?",
+      "options": ["To cook food", "To pray and sing", "To tell jokes", "To teach math"],
+      "answer": "To pray and sing",
+      "explanation": "In ISKCON (International Society for Krishna Consciousness), the khol is used during devotional singing and chanting."
+    },
+    {
+      "question": "What type of sound does the khol make when you hit it gently?",
+      "options": ["Loud noise", "Soft sound", "High-pitched sound", "No sound"],
+      "answer": "Soft sound",
+      "explanation": "When struck gently, the khol produces a soft, mellow sound, perfect for subtle rhythms."
+    },
+    {
+      "question": "What happens to the khol when it’s a rainy day?",
+      "options": ["It sounds louder", "It gets a lower sound", "It breaks", "It gets smaller"],
+      "answer": "It gets a lower sound",
+      "explanation": "On rainy days, the humidity can cause the khol to produce a lower, deeper sound due to changes in the air's moisture content."
+    }
+  ]
+},
+{
+  "setNumber": 8,
+  "questions": [
+    {
+      "question": "What do khol players use to make it sound lower on a dry day?",
+      "options": ["Add water", "Shake the drum", "Play faster", "Play slower"],
+      "answer": "Add water",
+      "explanation": "Adding water to the khol helps in lowering the sound by adjusting the tension of the drumhead."
+    },
+    {
+      "question": "What does the rice paste on the khol do?",
+      "options": ["Makes it shiny", "Makes the sound better", "Makes it heavy", "Makes it dry"],
+      "answer": "Makes the sound better",
+      "explanation": "The rice paste applied on the khol helps enhance its tonal quality and resonance."
+    },
+    {
+      "question": "What shape is the khol?",
+      "options": ["Round", "Square", "Oval", "Rectangular"],
+      "answer": "Round",
+      "explanation": "The khol is typically round in shape, which is common in many traditional Indian percussion instruments."
+    },
+    {
+      "question": "What is the main thing the khol is used for?",
+      "options": ["Drums for dance", "Accompaniment for singing", "To make a house", "To make music for games"],
+      "answer": "Accompaniment for singing",
+      "explanation": "The khol is mainly used to accompany devotional singing and chanting during religious ceremonies."
+    },
+    {
+      "question": "What is the khol made from?",
+      "options": ["Clay", "Steel", "Glass", "Fabric"],
+      "answer": "Clay",
+      "explanation": "The khol is traditionally made from clay, which gives it its unique sound quality."
+    },
+    {
+      "question": "What is the shape of the khol's big side?",
+      "options": ["Round and flat", "Pointed", "Square", "Tall and narrow"],
+      "answer": "Round and flat",
+      "explanation": "The big side of the khol is typically round and flat, which helps produce a deeper sound."
+    },
+    {
+      "question": "What is one way to play the khol?",
+      "options": ["With a bow", "With sticks", "With your hands", "By blowing on it"],
+      "answer": "With your hands",
+      "explanation": "The khol is traditionally played by striking it with the hands, which allows for a variety of rhythmic sounds."
+    },
+    {
+      "question": "In which dance is the khol used?",
+      "options": ["Kathak", "Sattriya", "Ballet", "Hip-hop"],
+      "answer": "Sattriya",
+      "explanation": "The khol is commonly used in the Sattriya dance, a classical dance form of Assam."
+    },
+    {
+      "question": "What do you call the skin that covers the khol?",
+      "options": ["The lid", "The drumhead", "The mouthpiece", "The cover"],
+      "answer": "The drumhead",
+      "explanation": "The skin covering the khol is referred to as the drumhead, which is essential for producing sound."
+    },
+    {
+      "question": "Where can you hear the khol played?",
+      "options": ["In a playground", "In a temple", "In a car", "In a classroom"],
+      "answer": "In a temple",
+      "explanation": "The khol is commonly played in temples during religious ceremonies and prayers."
+    }
+  ]
+},
+{
+  "setNumber": 9,
+  "questions": [
+    {
+      "question": "What is a khol drum player’s job?",
+      "options": ["To teach students", "To play songs", "To play games", "To clean the house"],
+      "answer": "To play songs",
+      "explanation": "A khol drum player's primary job is to accompany devotional songs during religious performances."
+    },
+    {
+      "question": "How does the khol help in a performance?",
+      "options": ["It keeps the rhythm", "It plays the melody", "It makes the lights dance", "It decorates the stage"],
+      "answer": "It keeps the rhythm",
+      "explanation": "The khol keeps the rhythm in performances, particularly in devotional music and dance."
+    },
+    {
+      "question": "Why do players add water to the khol?",
+      "options": ["To make it sound higher", "To make it sound lower", "To make it look pretty", "To make it clean"],
+      "answer": "To make it sound lower",
+      "explanation": "Adding water adjusts the tension of the drumhead, lowering the pitch and changing the sound."
+    },
+    {
+      "question": "What type of songs does the khol play with?",
+      "options": ["Happy songs", "Devotional songs", "Sad songs", "Funny songs"],
+      "answer": "Devotional songs",
+      "explanation": "The khol is most commonly played with devotional songs, especially during religious ceremonies."
+    },
+    {
+      "question": "How do players make different sounds on the khol?",
+      "options": ["By using a keyboard", "By changing the speed", "By tapping with fingers", "By blowing air"],
+      "answer": "By tapping with fingers",
+      "explanation": "Players create different sounds by tapping on different areas of the khol with their fingers."
+    },
+    {
+      "question": "Who made the khol drum out of terracotta?",
+      "options": ["Tansen", "Sankardeva", "Beethoven", "Mozart"],
+      "answer": "Sankardeva",
+      "explanation": "Sankardeva, a saint-scholar, is believed to have popularized the use of the khol in Assam."
+    },
+    {
+      "question": "What can you hear when the khol is played in a temple?",
+      "options": ["Bells ringing", "Songs and music", "People talking", "Birds singing"],
+      "answer": "Songs and music",
+      "explanation": "In temples, the khol is played along with devotional songs and music during prayers and rituals."
+    },
+    {
+      "question": "What does the khol sound like when you hit it lightly?",
+      "options": ["Loud", "Soft", "High-pitched", "Low-pitched"],
+      "answer": "Soft",
+      "explanation": "When struck lightly, the khol produces a soft, mellow sound that enhances the musical atmosphere."
+    },
+    {
+      "question": "Where is the khol used in Assam?",
+      "options": ["In temples", "In kitchens", "At playgrounds", "In classrooms"],
+      "answer": "In temples",
+      "explanation": "The khol is primarily used in temples for religious and devotional music in Assam."
+    },
+    {
+      "question": "What is another name for the khol?",
+      "options": ["Guitar", "Mridanga", "Violin", "Trumpet"],
+      "answer": "Mridanga",
+      "explanation": "The khol is sometimes referred to as a type of mridanga, another traditional Indian drum."
+    }
+  ]
+},
+{
+  "setNumber": 10,
+  "questions": [
+    {
+      "question": "Which face of the khol is higher-pitched?",
+      "options": ["Left face", "Right face", "Both faces are the same", "None of the above"],
+      "answer": "Right face",
+      "explanation": "The right face of the khol is typically higher-pitched and produces a sharper sound."
+    },
+    {
+      "question": "What is the right face of the khol known for?",
+      "options": ["Low sound", "High pitch", "No sound", "Soft sound"],
+      "answer": "High pitch",
+      "explanation": "The right face of the khol is known for its higher-pitched, sharper tone."
+    },
+    {
+      "question": "Which instrument is used with the khol in a play?",
+      "options": ["Guitar", "Piano", "Taal", "Violin"],
+      "answer": "Taal",
+      "explanation": "The khol is often accompanied by the taal, a rhythmic accompaniment instrument, in traditional performances."
+    },
+    {
+      "question": "Who plays the khol in a traditional dance?",
+      "options": ["The dancer", "The singer", "The musician", "The director"],
+      "answer": "The musician",
+      "explanation": "The khol is played by musicians to accompany dancers in traditional dance forms."
+    },
+    {
+      "question": "What happens to the khol sound on a rainy day?",
+      "options": ["It gets louder", "It gets lower", "It disappears", "It becomes high-pitched"],
+      "answer": "It gets lower",
+      "explanation": "The khol sound becomes lower on a rainy day due to the humidity affecting the tension of the drumhead."
+    },
+    {
+      "question": "What does the khol help do in religious activities?",
+      "options": ["Helps in prayers", "Helps in cooking", "Helps in cleaning", "Helps in dancing"],
+      "answer": "Helps in prayers",
+      "explanation": "The khol is used in religious activities to accompany prayers and devotional songs."
+    },
+    {
+      "question": "Which one is used to make the sound on the khol?",
+      "options": ["Air", "Water", "Hands and fingers", "A stick"],
+      "answer": "Hands and fingers",
+      "explanation": "The sound on the khol is made by tapping the drumhead with hands and fingers."
+    },
+    {
+      "question": "Why is the khol important in India?",
+      "options": ["It is used for cooking", "It is part of cultural celebrations", "It is used for decorating", "It is used for playing football"],
+      "answer": "It is part of cultural celebrations",
+      "explanation": "The khol plays an important role in cultural and religious celebrations, particularly in Assam."
+    },
+    {
+      "question": "What is one type of music the khol is used for?",
+      "options": ["Jazz", "Rock", "Kirtan", "Pop"],
+      "answer": "Kirtan",
+      "explanation": "The khol is commonly used in the performance of kirtan, a type of devotional song in India."
+    },
+    {
+      "question": "How does the khol help in a religious ceremony?",
+      "options": ["It keeps the beat for songs and prayers", "It tells a story", "It entertains people", "It serves food"],
+      "answer": "It keeps the beat for songs and prayers",
+      "explanation": "In religious ceremonies, the khol keeps the beat for songs and prayers, aiding in the rhythmic structure of the ceremony."
+    }
+  ]
+}    
+]  
+},
+
+
 {
   "subtopicName": "Pakhawaj",
   "description": [
@@ -17697,8 +18677,397 @@
       "explanation": "During fast rhythms, the Pakhawaj produces loud and exciting beats, energizing the performance."
     }
   ]
+},
+{
+  "setNumber": 6,
+  "questions": [
+    {
+      "question": "How do Pakhavaj players change the sound?",
+      "options": ["By pressing the drum", "By using different hands", "By jumping", "By singing"],
+      "answer": "By using different hands",
+      "explanation": "Pakhavaj players change the sound by using different hand techniques on each side of the drum."
+    },
+    {
+      "question": "What is the left side of the Pakhavaj known for?",
+      "options": ["Low sound", "High sound", "Sweet sound", "Loud sound"],
+      "answer": "Low sound",
+      "explanation": "The left side of the Pakhavaj typically produces a low sound, used for deep bass rhythms."
+    },
+    {
+      "question": "What do the players practice to become good at playing the Pakhavaj?",
+      "options": ["Mnemonics", "Singing", "Dancing", "Drawing"],
+      "answer": "Mnemonics",
+      "explanation": "Pakhavaj players use mnemonics (syllables) for rhythmic patterns to improve their playing skills."
+    },
+    {
+      "question": "How do Pakhavaj players make fast beats?",
+      "options": ["Practice their hands", "Use a stick", "Jump around", "Sing fast"],
+      "answer": "Practice their hands",
+      "explanation": "Pakhavaj players make fast beats through consistent hand practice and mastering finger techniques."
+    },
+    {
+      "question": "How many sides does the Pakhavaj have?",
+      "options": ["Two sides", "Four sides", "One side", "No sides"],
+      "answer": "Two sides",
+      "explanation": "The Pakhavaj is a two-sided drum, with the left side typically producing deep bass and the right side producing higher tones."
+    },
+    {
+      "question": "Which part of the Pakhavaj creates a smooth sound?",
+      "options": ["Right side", "Left side", "Bottom", "Top"],
+      "answer": "Right side",
+      "explanation": "The right side of the Pakhavaj produces a smooth sound, typically used for higher-pitched rhythms."
+    },
+    {
+      "question": "Which part of the Pakhavaj is larger?",
+      "options": ["Left side", "Right side", "Both sides", "Neither side"],
+      "answer": "Left side",
+      "explanation": "The left side of the Pakhavaj is larger than the right side, contributing to its deep bass sound."
+    },
+    {
+      "question": "What is the shape of the Pakhavaj drum’s head?",
+      "options": ["Round", "Square", "Oval", "Triangular"],
+      "answer": "Round",
+      "explanation": "The Pakhavaj drum typically has a round head, allowing for a varied sound on both sides of the drum."
+    },
+    {
+      "question": "What do Pakhavaj players use to make the bass sound better?",
+      "options": ["Wheat dough", "Paper", "Cloth", "Water"],
+      "answer": "Wheat dough",
+      "explanation": "Wheat dough is applied to the left side of the Pakhavaj to improve the bass sound by enhancing the tension of the drumhead."
+    },
+    {
+      "question": "Which rhythm does the Pakhavaj player follow?",
+      "options": ["Tala", "Song", "Beat", "Dance"],
+      "answer": "Tala",
+      "explanation": "Pakhavaj players follow a rhythmic cycle called 'Tala,' which forms the basis of Indian classical music."
+    }
+  ]
+},
+{
+  "setNumber": 7,
+  "questions": [
+    {
+      "question": "What is the name of the family of instruments the Pakhavaj belongs to?",
+      "options": ["Drums", "String instruments", "Wind instruments", "Keyboard instruments"],
+      "answer": "Drums",
+      "explanation": "The Pakhavaj belongs to the family of percussion instruments, specifically drums."
+    },
+    {
+      "question": "Which part of the Pakhavaj do the players hit with their palms?",
+      "options": ["Left side", "Right side", "Top side", "Both sides"],
+      "answer": "Both sides",
+      "explanation": "Pakhavaj players hit both the left and right sides of the drum with their palms to produce various sounds."
+    },
+    {
+      "question": "What type of sound is produced on the treble face?",
+      "options": ["High", "Low", "Deep", "Quiet"],
+      "answer": "High",
+      "explanation": "The treble face of the Pakhavaj produces high-pitched sounds, typically played with the right hand."
+    },
+    {
+      "question": "What do the Pakhavaj players use to keep the sound steady?",
+      "options": ["Mnemonics", "Water", "Music notes", "Lyrics"],
+      "answer": "Mnemonics",
+      "explanation": "Mnemonics, or rhythmic syllables, are used by Pakhavaj players to maintain a steady rhythm."
+    },
+    {
+      "question": "What is a “Bol” in Pakhavaj music?",
+      "options": ["A sound made on the drum", "A type of instrument", "A kind of dance", "A type of food"],
+      "answer": "A sound made on the drum",
+      "explanation": "A ‘Bol’ refers to the specific syllables used to describe the strokes or sounds made on the Pakhavaj."
+    },
+    {
+      "question": "Which part of the Pakhavaj is played with all fingers?",
+      "options": ["Right side", "Left side", "Both sides", "Top side"],
+      "answer": "Left side",
+      "explanation": "The left side of the Pakhavaj is typically played with all fingers, contributing to deep bass tones."
+    },
+    {
+      "question": "How is the sound different when hitting the edge of the Pakhavaj?",
+      "options": ["It’s high pitched", "It’s soft", "It’s silent", "It’s deep"],
+      "answer": "It’s high pitched",
+      "explanation": "Hitting the edge of the Pakhavaj produces a higher-pitched sound compared to striking the center of the drum."
+    },
+    {
+      "question": "What is used to make the Pakhavaj skins?",
+      "options": ["Animal skin", "Paper", "Cloth", "Rubber"],
+      "answer": "Animal skin",
+      "explanation": "Pakhavaj skins are traditionally made from animal skin, which is stretched over the drum to produce sound."
+    },
+    {
+      "question": "Which hand does the player use to play the treble side?",
+      "options": ["Right hand", "Left hand", "Both hands", "Feet"],
+      "answer": "Right hand",
+      "explanation": "The right hand is typically used to play the treble side of the Pakhavaj."
+    },
+    {
+      "question": "What kind of sounds does the Pakhavaj make?",
+      "options": ["Drum beats", "Singing", "Whistling", "Clapping"],
+      "answer": "Drum beats",
+      "explanation": "The Pakhavaj produces a variety of drum beats, with different tonal qualities depending on which side is played."
+    }
+  ]
+},
+{
+  "setNumber": 8,
+  "questions": [
+    {
+      "question": "What helps make the sound deep and rich in Pakhavaj?",
+      "options": ["Wheat dough", "Leather", "Wood", "Silk"],
+      "answer": "Wheat dough",
+      "explanation": "Wheat dough is applied to the Pakhavaj to enhance the bass sound, making it deep and rich."
+    },
+    {
+      "question": "Which part of the Pakhavaj is for the higher sound?",
+      "options": ["Right side", "Left side", "Top", "Bottom"],
+      "answer": "Right side",
+      "explanation": "The right side of the Pakhavaj is used to produce higher-pitched sounds, typically played with the right hand."
+    },
+    {
+      "question": "What is the Pakhavaj player’s rhythm called?",
+      "options": ["Tala", "Tap", "Dance", "Song"],
+      "answer": "Tala",
+      "explanation": "Tala is the name of the rhythm or rhythmic cycle followed by the Pakhavaj player during a performance."
+    },
+    {
+      "question": "How do players practice the sounds of the Pakhavaj?",
+      "options": ["With words or bol", "By watching TV", "By singing", "By listening to others"],
+      "answer": "With words or bol",
+      "explanation": "Pakhavaj players practice using rhythmic syllables called ‘bol’ to help them remember and create different sounds on the drum."
+    },
+    {
+      "question": "Which of these is a sound made on the Pakhavaj?",
+      "options": ["Din", "Bark", "Sing", "Dance"],
+      "answer": "Din",
+      "explanation": "‘Din’ is a sound made on the Pakhavaj, created by striking the drum in a particular way."
+    },
+    {
+      "question": "How do the players make the Pakhavaj sound louder?",
+      "options": ["Tap it harder", "Hit it with sticks", "Use more dough", "Shout"],
+      "answer": "Tap it harder",
+      "explanation": "Players can make the Pakhavaj sound louder by tapping it harder, especially on the edges, where the sound is sharper."
+    },
+    {
+      "question": "What do players put on the Pakhavaj to help make the bass sound deep?",
+      "options": ["Wheat dough", "Salt", "Water", "Ice"],
+      "answer": "Wheat dough",
+      "explanation": "Wheat dough is applied to the left side of the Pakhavaj to deepen and enrich the bass sound."
+    },
+    {
+      "question": "What is the word for the rhythm in Pakhavaj?",
+      "options": ["Bol", "Song", "Beat", "Clap"],
+      "answer": "Bol",
+      "explanation": "‘Bol’ refers to the specific syllables used in Pakhavaj music to denote various strokes or beats."
+    },
+    {
+      "question": "What is the purpose of the Pakhavaj in a concert?",
+      "options": ["To keep the rhythm", "To sing", "To dance", "To tell a story"],
+      "answer": "To keep the rhythm",
+      "explanation": "The Pakhavaj serves to maintain the rhythm during performances, especially in classical Indian music."
+    },
+    {
+      "question": "What do Pakhavaj players use to make the sound clearer?",
+      "options": ["Fingers", "Hands", "Sticks", "Feet"],
+      "answer": "Fingers",
+      "explanation": "Pakhavaj players use their fingers, along with their palms, to create clear, distinct sounds on the drum."
+    }
+  ]
+},
+{
+  "setNumber": 9,
+  "questions": [
+    {
+      "question": "What is the purpose of the Pakhavaj in Indian music?",
+      "options": ["Keep rhythm", "Sing songs", "Dance", "Make noise"],
+      "answer": "Keep rhythm",
+      "explanation": "The primary purpose of the Pakhavaj is to maintain rhythm and provide a rhythmic foundation in Indian classical music performances."
+    },
+    {
+      "question": "What does the word 'Pakhavaj' mean?",
+      "options": ["A type of food", "A musical instrument", "A kind of dance", "A type of flower"],
+      "answer": "A musical instrument",
+      "explanation": "'Pakhavaj' is the name of a traditional Indian drum that is used in classical music performances."
+    },
+    {
+      "question": "What do the Pakhavaj players learn to do with their hands?",
+      "options": ["Hit the drum", "Play with toys", "Write", "Dance"],
+      "answer": "Hit the drum",
+      "explanation": "Pakhavaj players learn to hit the drum with their hands and fingers to create various rhythms and sounds."
+    },
+    {
+      "question": "How does the Pakhavaj sound when you hit the middle of the drum?",
+      "options": ["Din", "Meow", "Bang", "Boo"],
+      "answer": "Din",
+      "explanation": "When you strike the middle of the Pakhavaj, it produces a 'Din' sound, which is part of the rhythmic patterns in classical music."
+    },
+    {
+      "question": "Which of these does the Pakhavaj player tap to make sounds?",
+      "options": ["Skin", "Wood", "Stones", "Sand"],
+      "answer": "Skin",
+      "explanation": "The Pakhavaj player taps the skin of the drum to create different sounds. The skin is an essential part of the drum's sound production."
+    },
+    {
+      "question": "What is used to make the dough on the Pakhavaj?",
+      "options": ["Wheat flour", "Sugar", "Rice", "Salt"],
+      "answer": "Wheat flour",
+      "explanation": "Wheat flour is used to make the dough that is applied to the Pakhavaj to enhance its sound, especially on the bass side."
+    },
+    {
+      "question": "When do Pakhavaj players use the full hand to play?",
+      "options": ["To make the best sound", "To play faster", "To hit the floor", "To play with friends"],
+      "answer": "To make the best sound",
+      "explanation": "Using the full hand helps the Pakhavaj player create the best and most resonant sounds, especially for deep tones."
+    },
+    {
+      "question": "Which of these is the correct way to sit while playing the Pakhavaj?",
+      "options": ["Sit with legs crossed", "Stand up", "Sit on a chair", "Lie down"],
+      "answer": "Sit with legs crossed",
+      "explanation": "To play the Pakhavaj correctly, players typically sit with their legs crossed, allowing them to position the drum properly and use their hands effectively."
+    },
+    {
+      "question": "What is the Pakhavaj made of to make it light to carry?",
+      "options": ["Wood", "Plastic", "Metal", "Paper"],
+      "answer": "Wood",
+      "explanation": "The Pakhavaj is usually made of wood, making it both durable and light enough for players to carry easily."
+    },
+    {
+      "question": "Which part of the Pakhavaj do you tap to create different sounds?",
+      "options": ["Both sides", "Only the right side", "Only the left side", "The edge"],
+      "answer": "Both sides",
+      "explanation": "The Pakhavaj has two sides, each creating different sounds. Players tap both sides to produce various tones depending on the type of stroke used."
+    }
+  ]
+},
+{
+  "setNumber": 10,
+  "questions": [
+    {
+      "question": "Which animal's skin is often used on the Pakhavaj?",
+      "options": ["Goat", "Elephant", "Cow", "Tiger"],
+      "answer": "Goat",
+      "explanation": "The skin of a goat is commonly used to make the drumheads of the Pakhavaj, as it provides the best resonance and durability."
+    },
+    {
+      "question": "Which sound does the player make on the treble face of the Pakhavaj?",
+      "options": ["Din", "Moo", "Woof", "Meow"],
+      "answer": "Din",
+      "explanation": "The 'Din' sound is produced on the treble face of the Pakhavaj, a high-pitched sound that is part of the rhythmic structure."
+    },
+    {
+      "question": "What is the Pakhavaj’s low sound called?",
+      "options": ["Bass", "High", "Light", "Sweet"],
+      "answer": "Bass",
+      "explanation": "The Pakhavaj produces a deep bass sound, especially from the left side, which is an essential part of its rich tonal range."
+    },
+    {
+      "question": "What does the Pakhavaj player use to make a louder sound?",
+      "options": ["Dough", "Stones", "Wool", "Wood"],
+      "answer": "Dough",
+      "explanation": "The dough, often made from wheat flour, is placed on the Pakhavaj to enhance its bass sound and overall volume."
+    },
+    {
+      "question": "Which hand does the player use to hit the left side of the drum?",
+      "options": ["Right hand", "Left hand", "Both hands", "Feet"],
+      "answer": "Left hand",
+      "explanation": "The left hand is typically used to play the left side of the Pakhavaj, which is where the deeper, bass sounds are produced."
+    },
+    {
+      "question": "Which type of music uses the Pakhavaj the most?",
+      "options": ["Dhrupad music", "Rock music", "Pop music", "Hip-hop music"],
+      "answer": "Dhrupad music",
+      "explanation": "The Pakhavaj is most commonly used in Dhrupad music, a form of Indian classical music that emphasizes rhythm and is often accompanied by the Pakhavaj."
+    },
+    {
+      "question": "What kind of sound does the Pakhavaj make when hit with the palm?",
+      "options": ["Loud", "Soft", "High", "Low"],
+      "answer": "Loud",
+      "explanation": "Hitting the Pakhavaj with the palm generally produces a loud and resonant sound, especially on the bass side."
+    },
+    {
+      "question": "How do you make the treble sound?",
+      "options": ["Hit with the palm", "Hit with your foot", "Use fingers", "Tap with a stick"],
+      "answer": "Use fingers",
+      "explanation": "To produce the treble sound on the Pakhavaj, the player uses their fingers to tap the right side of the drum."
+    },
+    {
+      "question": "What is a Pakhavaj player’s hand called when it makes a special sound?",
+      "options": ["Chanti", "Clap", "Snap", "Wave"],
+      "answer": "Chanti",
+      "explanation": "A 'Chanti' is a special hand stroke used by Pakhavaj players to create a distinctive sound in rhythmic patterns."
+    },
+    {
+      "question": "What is a sound made with the Pakhavaj called?",
+      "options": ["Bol", "Bark", "Song", "Dance"],
+      "answer": "Bol",
+      "explanation": "In Pakhavaj music, the term 'Bol' refers to the sounds or syllables that correspond to specific beats or strokes on the drum."
+    }
+  ]
+},
+{
+  "setNumber": 11,
+  "questions": [
+    {
+      "question": "What is a Pakhavaj?",
+      "options": ["A drum", "A guitar", "A flute", "A piano"],
+      "answer": "A drum",
+      "explanation": "The Pakhavaj is a traditional Indian percussion instrument, similar to a drum, that is used in classical music."
+    },
+    {
+      "question": "What shape is the Pakhavaj drum?",
+      "options": ["Round", "Square", "Triangle", "Barrel-shaped"],
+      "answer": "Barrel-shaped",
+      "explanation": "The Pakhavaj is a barrel-shaped drum, which helps in producing its deep bass and high-pitched sounds."
+    },
+    {
+      "question": "Which side of the Pakhavaj makes a high sound?",
+      "options": ["Left side", "Right side", "Both sides", "No sound"],
+      "answer": "Right side",
+      "explanation": "The right side of the Pakhavaj produces a high-pitched sound, often referred to as the treble face."
+    },
+    {
+      "question": "What do Pakhavaj players put on the left side of the drum?",
+      "options": ["Wheat dough", "Water", "Clay", "Cotton"],
+      "answer": "Wheat dough",
+      "explanation": "Players place wheat dough on the left side of the Pakhavaj to enhance the bass sound."
+    },
+    {
+      "question": "What is the Pakhavaj made of?",
+      "options": ["Wood and skin", "Plastic", "Glass", "Metal"],
+      "answer": "Wood and skin",
+      "explanation": "The Pakhavaj is traditionally made of wood and animal skin, which allows it to produce a rich and resonant sound."
+    },
+    {
+      "question": "What is the Pakhavaj used for?",
+      "options": ["Music", "Eating", "Sleeping", "Playing games"],
+      "answer": "Music",
+      "explanation": "The Pakhavaj is used primarily in Indian classical music, especially in Dhrupad style."
+    },
+    {
+      "question": "What kind of music is the Pakhavaj often played with?",
+      "options": ["Classical music", "Pop music", "Rock music", "Jazz music"],
+      "answer": "Classical music",
+      "explanation": "The Pakhavaj is most commonly played with classical music, particularly in Dhrupad, a traditional form of Indian classical music."
+    },
+    {
+      "question": "What part of the Pakhavaj is played with fingers?",
+      "options": ["Right side", "Left side", "Both sides", "No sides"],
+      "answer": "Right side",
+      "explanation": "The right side of the Pakhavaj is typically played with the fingers, especially to produce high-pitched, treble sounds."
+    },
+    {
+      "question": "What is the skin on the Pakhavaj made from?",
+      "options": ["Animal skin", "Fabric", "Paper", "Metal"],
+      "answer": "Animal skin",
+      "explanation": "The skin used on the Pakhavaj is usually from animals, such as goats, to create the best sound quality."
+    },
+    {
+      "question": "How do you sit while playing the Pakhavaj?",
+      "options": ["Stand up", "Sit with legs crossed", "Lie down", "Jump around"],
+      "answer": "Sit with legs crossed",
+      "explanation": "The proper sitting posture for playing the Pakhavaj is cross-legged, which helps the player maintain balance and comfort."
+    }
+  ]
 }
-   
 ]  
 },
 
@@ -18035,7 +19404,400 @@
       "explanation": "Madhyama is important for creating a harmonious sound in music."
     }
   ]
+},
+{
+  "setNumber": 6,
+  "questions": [
+    {
+      "question": "What is Madhyam associated with in the sky?",
+      "options": ["The Sun", "The Moon", "The Stars", "The Clouds"],
+      "answer": "The Moon",
+      "explanation": "Madhyam is often associated with the Moon, as its sound reflects a peaceful and calm presence, much like the moon."
+    },
+    {
+      "question": "What does Madhyam make easier to sing?",
+      "options": ["The high notes", "The middle notes", "The low notes", "The fast rhythm"],
+      "answer": "The middle notes",
+      "explanation": "Madhyam is the fourth note in the Indian musical scale and helps create smooth transitions between notes, making middle notes easier to sing."
+    },
+    {
+      "question": "What is Madhyam used for in Indian music?",
+      "options": ["To create a tune", "To play drums", "To make music faster", "To change the rhythm"],
+      "answer": "To create a tune",
+      "explanation": "Madhyam plays a crucial role in creating the melody and harmony of a raga, acting as a key component in the musical scale."
+    },
+    {
+      "question": "Which raga uses Madhyam as the most important note?",
+      "options": ["Raga Malkauns", "Raga Kedar", "Raga Yaman", "Raga Hamsadhwani"],
+      "answer": "Raga Kedar",
+      "explanation": "In Raga Kedar, Madhyam plays a significant role, influencing the mood and structure of the raga."
+    },
+    {
+      "question": "What is the first note of Indian classical music?",
+      "options": ["Re", "Ga", "Sa", "Pa"],
+      "answer": "Sa",
+      "explanation": "Sa is the first note (Shadja) in the Indian musical scale and serves as the foundation for all other notes."
+    },
+    {
+      "question": "Which of these notes is part of the Madhyam family in music?",
+      "options": ["Pa", "Ga", "Ma", "Ni"],
+      "answer": "Ma",
+      "explanation": "Ma (Madhyam) is the fourth note in the scale and plays a central role in Indian classical music."
+    },
+    {
+      "question": "What is a Shruti in music?",
+      "options": ["A kind of music scale", "A sound that makes the note clear", "A musical instrument", "A type of beat"],
+      "answer": "A sound that makes the note clear",
+      "explanation": "A Shruti is a microtonal unit in Indian classical music that helps clarify the sound of a note, making it distinct and clear."
+    },
+    {
+      "question": "How does Madhyam help in Indian music?",
+      "options": ["It makes the music louder", "It connects the notes and makes music sound smooth", "It makes the music faster", "It makes the rhythm quicker"],
+      "answer": "It connects the notes and makes music sound smooth",
+      "explanation": "Madhyam connects the lower and higher notes smoothly, contributing to the harmony and flow of the music."
+    },
+    {
+      "question": "Which of these describes Madhyam?",
+      "options": ["The first note in the scale", "The middle note in the scale", "The last note in the scale", "A very high note"],
+      "answer": "The middle note in the scale",
+      "explanation": "Madhyam is the fourth note, often considered the middle note, and provides balance in the scale."
+    },
+    {
+      "question": "Which of these Thaats does NOT use Madhyam in its sharp form?",
+      "options": ["Kalyan", "Marwa", "Poorvi", "Todi"],
+      "answer": "Marwa",
+      "explanation": "Marwa Thaat does not use the sharp form of Madhyam, whereas other thaats like Kalyan and Poorvi incorporate it."
+    }
+  ]
+},
+{
+  "setNumber": 7,
+  "questions": [
+    {
+      "question": "Who is said to be linked with Madhyam in ancient stories?",
+      "options": ["Lord Vishnu", "Lord Shiva", "Lord Indra", "Lord Ram"],
+      "answer": "Lord Indra",
+      "explanation": "In ancient stories, Madhyam is linked with Lord Indra, who is associated with the rhythm and harmony in the cosmos."
+    },
+    {
+      "question": "What animal sound is Madhyam connected with in stories?",
+      "options": ["Elephant", "Tiger", "Heron", "Lion"],
+      "answer": "Heron",
+      "explanation": "Madhyam is often associated with the sound of a heron in stories, symbolizing calmness and grace."
+    },
+    {
+      "question": "Which of these musical notes is Madhyam considered to be?",
+      "options": ["A Chal note", "An Achal note", "A long note", "A low note"],
+      "answer": "A Chal note",
+      "explanation": "Madhyam is considered a Chal note because it has a dynamic quality, capable of movement and transition."
+    },
+    {
+      "question": "In music, which note is always right in its position and doesn't move?",
+      "options": ["Madhyam", "Shadja (Sa)", "Pa", "Ni"],
+      "answer": "Shadja (Sa)",
+      "explanation": "Shadja (Sa) is the first note in the scale and is considered the root note that does not move."
+    },
+    {
+      "question": "Which of these is NOT a note used in the Madhyam music scale?",
+      "options": ["Ma", "Sa", "Pa", "Ga"],
+      "answer": "Ma",
+      "explanation": "In the context of Madhyam music scale, Ma is a note but it is distinct from the central tone of the Madhyam family."
+    },
+    {
+      "question": "What does the note Madhyam represent in Indian classical music?",
+      "options": ["A soft sound", "A middle sound", "A loud sound", "A high sound"],
+      "answer": "A middle sound",
+      "explanation": "Madhyam represents the middle sound in the scale, providing a balanced tone between the higher and lower notes."
+    },
+    {
+      "question": "What happens when we sing Madhyam in a song?",
+      "options": ["The song gets faster", "The song gets louder", "The song sounds smooth", "The song gets slower"],
+      "answer": "The song sounds smooth",
+      "explanation": "Singing Madhyam in a song helps create smooth transitions between the notes, enhancing the melody."
+    },
+    {
+      "question": "What kind of Madhyam is used in Raga Kalyan?",
+      "options": ["Soft", "Sharp", "Slow", "High"],
+      "answer": "Sharp",
+      "explanation": "In Raga Kalyan, the sharp form of Madhyam is used, adding a distinct brightness to the raga."
+    },
+    {
+      "question": "Which Thaat has Madhyam as a sharp note?",
+      "options": ["Marwa", "Kalyan", "Yaman", "Bhairav"],
+      "answer": "Kalyan",
+      "explanation": "In the Kalyan Thaat, Madhyam is played in its sharp form, contributing to the uplifting character of the raga."
+    },
+    {
+      "question": "What is the special sound made for Madhyam in music?",
+      "options": ["Ma", "Ra", "Dha", "Pa"],
+      "answer": "Ma",
+      "explanation": "The sound 'Ma' is the special vocalization used to denote Madhyam in Indian classical music."
+    }
+  ]
+},
+{
+  "setNumber": 8,
+  "questions": [
+    {
+      "question": "Which note comes before Madhyam in music?",
+      "options": ["Re", "Ga", "Pa", "Ni"],
+      "answer": "Ga",
+      "explanation": "Ga comes before Madhyam in the musical scale, forming the progression of notes."
+    },
+    {
+      "question": "Which note comes after Madhyam in the music scale?",
+      "options": ["Pa", "Dha", "Ni", "Ga"],
+      "answer": "Pa",
+      "explanation": "Pa follows Madhyam in the scale and adds harmony to the melody."
+    },
+    {
+      "question": "What sound do we use for Madhyam in Indian music?",
+      "options": ["Ba", "Ma", "Sa", "Ra"],
+      "answer": "Ma",
+      "explanation": "The sound 'Ma' is used to represent Madhyam in Indian classical music."
+    },
+    {
+      "question": "What makes Madhyam a special note in music?",
+      "options": ["It’s the first note", "It’s the sharpest note", "It’s the highest note", "It’s the softest note"],
+      "answer": "It’s the sharpest note",
+      "explanation": "Madhyam is unique for its sharpness, particularly in ragas like Kalyan."
+    },
+    {
+      "question": "What is the name of the Thaat that uses Madhyam the sharp way?",
+      "options": ["Kalyan", "Bhairav", "Hamsadhwani", "Marwa"],
+      "answer": "Kalyan",
+      "explanation": "The Kalyan Thaat uses Madhyam in its sharp form, which adds brightness to the raga."
+    },
+    {
+      "question": "Which of these ragas is linked to Madhyam?",
+      "options": ["Raga Malkauns", "Raga Kedar", "Raga Kalyan", "Raga Marwa"],
+      "answer": "Raga Kalyan",
+      "explanation": "Raga Kalyan is directly associated with the sharp form of Madhyam, making it a central feature."
+    },
+    {
+      "question": "What does Madhyam help to make in Indian music?",
+      "options": ["A loud sound", "A beautiful melody", "A beat", "A fast rhythm"],
+      "answer": "A beautiful melody",
+      "explanation": "Madhyam is used to create a smooth and beautiful melody in Indian classical music."
+    },
+    {
+      "question": "In Indian music, which note does Madhyam come after?",
+      "options": ["Shadja (Sa)", "Ni", "Dha", "Pa"],
+      "answer": "Shadja (Sa)",
+      "explanation": "Madhyam follows the note Shadja (Sa) in the musical scale, creating a balanced progression."
+    },
+    {
+      "question": "In music, Madhyam is also called:",
+      "options": ["Ma", "Ga", "Ni", "Dha"],
+      "answer": "Ma",
+      "explanation": "In music, the note Madhyam is also referred to as 'Ma' which is a standard name in classical music."
+    },
+    {
+      "question": "Which color is connected to the note Madhyam?",
+      "options": ["Red", "Blue", "White", "Yellow"],
+      "answer": "White",
+      "explanation": "White is often associated with Madhyam, representing purity and balance in classical music."
+    }
+  ]
+},
+{
+  "setNumber": 9,
+  "questions": [
+    {
+      "question": "Which of these ragas use Madhyam in their music?",
+      "options": ["Raga Malkauns", "Raga Kalyan", "Raga Pink", "Raga Blue"],
+      "answer": "Raga Kalyan",
+      "explanation": "Raga Kalyan uses Madhyam as a sharp note, which is an essential part of the raga's structure."
+    },
+    {
+      "question": "Which of these animals makes a sound that Madhyam is said to be connected with?",
+      "options": ["Heron", "Elephant", "Deer", "Cat"],
+      "answer": "Heron",
+      "explanation": "In ancient stories, Madhyam is often associated with the sound of a heron, symbolizing balance and harmony."
+    },
+    {
+      "question": "In the music scale, Madhyam comes after which note?",
+      "options": ["Gandhar", "Shadja", "Re", "Ni"],
+      "answer": "Gandhar",
+      "explanation": "Madhyam follows Gandhar in the music scale, playing a central role in the progression of notes."
+    },
+    {
+      "question": "Madhyam is the ___ note of the music scale.",
+      "options": ["First", "Second", "Fourth", "Fifth"],
+      "answer": "Fourth",
+      "explanation": "Madhyam is the fourth note in the Indian classical music scale, coming after Gandhar."
+    },
+    {
+      "question": "Which of these planets is Madhyam connected to?",
+      "options": ["Sun", "Moon", "Mars", "Earth"],
+      "answer": "Moon",
+      "explanation": "In ancient music lore, Madhyam is associated with the Moon, symbolizing calmness and balance."
+    },
+    {
+      "question": "Which of these colors is linked with Madhyam?",
+      "options": ["Red", "White", "Blue", "Green"],
+      "answer": "White",
+      "explanation": "White is linked with Madhyam, representing purity and balance in music."
+    },
+    {
+      "question": "Which sound comes after Madhyam in music?",
+      "options": ["Pa", "Ni", "Dha", "Ga"],
+      "answer": "Pa",
+      "explanation": "After Madhyam, the note 'Pa' follows in the scale, continuing the musical progression."
+    },
+    {
+      "question": "What does Madhyam do in Indian music?",
+      "options": ["Makes music louder", "Connects the notes together", "Changes the rhythm", "Makes music faster"],
+      "answer": "Connects the notes together",
+      "explanation": "Madhyam plays a crucial role in connecting notes and ensuring a smooth flow in the music."
+    },
+    {
+      "question": "What makes Madhyam sound different in music?",
+      "options": ["It’s always soft", "It is the only sharp note", "It’s very high-pitched", "It sounds like a drum"],
+      "answer": "It is the only sharp note",
+      "explanation": "Madhyam is distinct because it is the only sharp note in the scale, contributing a unique sound."
+    },
+    {
+      "question": "Madhyam is very important in Indian classical music because it helps make the notes sound __.",
+      "options": ["Boring", "Happy", "Together", "Strange"],
+      "answer": "Together",
+      "explanation": "Madhyam is crucial for making the notes sound cohesive and together, creating a harmonious blend."
+    }
+  ]
+},
+{
+  "setNumber": 10,
+  "questions": [
+    {
+      "question": "What is the sound we make when we sing Madhyam?",
+      "options": ["Bah", "Ma", "La", "Na"],
+      "answer": "Ma",
+      "explanation": "The sound 'Ma' represents the note Madhyam in Indian classical music, adding a distinct resonance."
+    },
+    {
+      "question": "Madhyam is the sound we use in which part of music?",
+      "options": ["The middle", "The beginning", "The end", "The high part"],
+      "answer": "The middle",
+      "explanation": "Madhyam occupies the middle range in the music scale, balancing the notes around it."
+    },
+    {
+      "question": "What kind of Madhyam note do we hear in music from Kalyan Thaat?",
+      "options": ["Soft", "Bright and sharp", "Deep and loud", "Slow"],
+      "answer": "Bright and sharp",
+      "explanation": "In the Kalyan Thaat, Madhyam is used as a bright and sharp note, which adds energy to the raga."
+    },
+    {
+      "question": "In Indian music, which of these is a Madhyam note?",
+      "options": ["Ma", "Do", "Fa", "Si"],
+      "answer": "Ma",
+      "explanation": "In Indian classical music, 'Ma' is the note Madhyam, which is a central part of the scale."
+    },
+    {
+      "question": "Who is Madhyam linked to in stories?",
+      "options": ["Lord Vishnu", "Lord Indra", "Lord Shiva", "Lord Ram"],
+      "answer": "Lord Indra",
+      "explanation": "In various ancient stories, Madhyam is said to be linked with Lord Indra, the king of the gods."
+    },
+    {
+      "question": "Which sound comes just before Madhyam in music?",
+      "options": ["Sa", "Ga", "Pa", "Ni"],
+      "answer": "Ga",
+      "explanation": "In the music scale, Ga (Gandhar) comes just before Madhyam (Ma), helping to form a smooth transition."
+    },
+    {
+      "question": "What kind of color is Madhyam connected with?",
+      "options": ["Yellow", "Green", "White", "Black"],
+      "answer": "White",
+      "explanation": "White is associated with Madhyam, representing purity, balance, and harmony in music."
+    },
+    {
+      "question": "Which of these notes does Madhyam belong to?",
+      "options": ["Achal (Doesn't move)", "Chal (Moves)", "Both", "Neither"],
+      "answer": "Chal (Moves)",
+      "explanation": "Madhyam is a 'Chal' note, meaning it moves and is flexible in the scale."
+    },
+    {
+      "question": "What is Madhyam also called in music?",
+      "options": ["Gandhar", "Re", "Ma", "Dha"],
+      "answer": "Ma",
+      "explanation": "Madhyam is also called 'Ma' in Indian classical music, symbolizing its central role."
+    },
+    {
+      "question": "Madhyam is special because it is the only __ note in the music scale.",
+      "options": ["High", "Long", "Sharp", "Soft"],
+      "answer": "Sharp",
+      "explanation": "Madhyam is the only sharp note in the scale, which adds a unique quality to its sound."
+    }
+  ]
+},
+{
+  "setNumber": 11,
+  "questions": [
+    {
+      "question": "What is Madhyam in music?",
+      "options": ["A color", "A special sound", "A musical instrument", "A type of flower"],
+      "answer": "A special sound",
+      "explanation": "Madhyam is a musical note in Indian classical music, specifically a special sound that plays a key role in the scale."
+    },
+    {
+      "question": "What do we say when we sing Madhyam?",
+      "options": ["La", "Ma", "Re", "Do"],
+      "answer": "Ma",
+      "explanation": "'Ma' is the sound we use to represent Madhyam, which is one of the key notes in Indian classical music."
+    },
+    {
+      "question": "Madhyam is the ___ note in music.",
+      "options": ["1st", "4th", "7th", "3rd"],
+      "answer": "4th",
+      "explanation": "Madhyam is the 4th note in the music scale in Indian classical music, sitting comfortably in the middle range."
+    },
+    {
+      "question": "Which color is connected to Madhyam?",
+      "options": ["Red", "Blue", "White", "Green"],
+      "answer": "White",
+      "explanation": "The color white is symbolically connected with Madhyam, representing purity and balance in music."
+    },
+    {
+      "question": "Madhyam is connected with which planet?",
+      "options": ["Sun", "Moon", "Earth", "Mars"],
+      "answer": "Moon",
+      "explanation": "In astrology and music, Madhyam is associated with the Moon, reflecting its gentle and balancing nature."
+    },
+    {
+      "question": "What makes Madhyam sound different?",
+      "options": ["It is sharp and bright", "It is soft and quiet", "It sounds like a bell", "It makes no sound"],
+      "answer": "It is sharp and bright",
+      "explanation": "Madhyam is known for its sharp and bright sound, making it distinct in Indian classical music."
+    },
+    {
+      "question": "Which of these ragas use Madhyam in their music?",
+      "options": ["Raga Kedar", "Raga Blue", "Raga Pink", "Raga Red"],
+      "answer": "Raga Kedar",
+      "explanation": "Raga Kedar uses the Madhyam note prominently, and it is a key feature of the raga."
+    },
+    {
+      "question": "Madhyam helps make other sounds in music work together. What is it like?",
+      "options": ["A helper", "A singer", "A listener", "A dancer"],
+      "answer": "A helper",
+      "explanation": "Madhyam is often referred to as a 'helper' in music, as it connects and balances the notes around it."
+    },
+    {
+      "question": "When we say 'Ma' in music, which note are we talking about?",
+      "options": ["Re", "Ga", "Madhyam", "Pa"],
+      "answer": "Madhyam",
+      "explanation": "In Indian classical music, 'Ma' represents Madhyam, the 4th note in the scale."
+    },
+    {
+      "question": "Which animal is Madhyam said to be connected with?",
+      "options": ["Elephant", "Tiger", "Heron", "Lion"],
+      "answer": "Heron",
+      "explanation": "In ancient stories, Madhyam is said to be connected with the sound of a heron, symbolizing balance and grace."
+    }
+  ]
 }
+
+
+
 
 
     
@@ -18374,12 +20136,273 @@
       "explanation": "The best way to play the Conga is by using your hands to create rhythm and sound through tapping."
     }
   ]
+},
+{
+  "setNumber": 6,
+  "questions": [
+    {
+      "question": "The modern conga drum evolved from what type of instrument?",
+      "options": ["African drums", "European snare drums", "Asian gongs", "Native American flutes"],
+      "answer": "African drums",
+      "explanation": "Congas were influenced by African drums, adapted in the Caribbean with local materials."
+    },
+    {
+      "question": "Which hand position is essential for producing the bass tone on a conga?",
+      "options": ["Open fingers", "Flat palm", "Fingertips", "Closed fist"],
+      "answer": "Flat palm",
+      "explanation": "The bass tone is achieved by striking the drumhead with a flat palm near the center."
+    },
+    {
+      "question": "Which African language influenced the naming of drums like the conga?",
+      "options": ["Swahili", "Yoruba", "Igbo", "Zulu"],
+      "answer": "Yoruba",
+      "explanation": "The Yoruba language from West Africa influenced names and musical terms in Afro-Cuban culture."
+    },
+    {
+      "question": "The famous song 'Oye Como Va' features which percussion instrument?",
+      "options": ["Conga", "Djembe", "Tambourine", "Marimba"],
+      "answer": "Conga",
+      "explanation": "'Oye Como Va,' popularized by Santana, prominently features conga drums."
+    },
+    {
+      "question": "Conga drums are generally played in:",
+      "options": ["Pairs or trios", "Solo", "Quartet", "Sextet"],
+      "answer": "Pairs or trios",
+      "explanation": "Congas are commonly played in pairs or trios to produce a range of pitches."
+    },
+    {
+      "question": "Which Latin genre is known for mixing salsa rhythms with modern elements like hip hop?",
+      "options": ["Reggaeton", "Bachata", "Cumbia", "Flamenco"],
+      "answer": "Reggaeton",
+      "explanation": "Reggaeton fuses salsa, dancehall, and hip hop, sometimes including conga rhythms."
+    },
+    {
+      "question": "What is the approximate diameter range of a typical conga drum?",
+      "options": ["3-5 inches", "6-8 inches", "9-13 inches", "16-20 inches"],
+      "answer": "9-13 inches",
+      "explanation": "Conga drums have a diameter of around 9-13 inches, depending on the type and pitch."
+    },
+    {
+      "question": "The conga drum became popular in the U.S. primarily during:",
+      "options": ["The 1920s", "The 1950s", "The 1970s", "The 1990s"],
+      "answer": "The 1950s",
+      "explanation": "Congas gained popularity in the U.S. during the Latin jazz boom in the 1950s."
+    },
+    {
+      "question": "The 'heel-toe' technique is used to create which effect on congas?",
+      "options": ["Faster rhythm", "Bass and slap tones", "Muted tones", "Deep bass sounds"],
+      "answer": "Faster rhythm",
+      "explanation": "The heel-toe technique allows for rapid playing, useful in complex rhythms."
+    },
+    {
+      "question": "Conga drums are typically tuned using:",
+      "options": ["Nails and hammers", "Drum keys", "Rope-tensioning", "Wooden pegs"],
+      "answer": "Drum keys",
+      "explanation": "Modern congas are tuned with drum keys that adjust the tension rods."
+    }
+  ]
+},
+{
+  "setNumber": 7,
+  "questions": [
+    {
+      "question": "What genre of music heavily features conga rhythms in Puerto Rico?",
+      "options": ["Reggaeton", "Salsa", "Tango", "Merengue"],
+      "answer": "Salsa",
+      "explanation": "Salsa music from Puerto Rico incorporates conga rhythms as a fundamental component of its beat."
+    },
+    {
+      "question": "The conga drum is most commonly played with:",
+      "options": ["Drumsticks", "Brushes", "Hands", "Mallets"],
+      "answer": "Hands",
+      "explanation": "Conga drums are traditionally played with the hands, allowing for various tones."
+    },
+    {
+      "question": "Which jazz musician was known for popularizing conga drums in Latin jazz?",
+      "options": ["Dizzy Gillespie", "John Coltrane", "Herbie Hancock", "Louis Armstrong"],
+      "answer": "Dizzy Gillespie",
+      "explanation": "Dizzy Gillespie helped popularize Afro-Cuban music, integrating conga drums in jazz."
+    },
+    {
+      "question": "Which musical pattern is often used in conga rhythms?",
+      "options": ["Tumbao", "Bossa nova", "Swing", "Reggaeton beat"],
+      "answer": "Tumbao",
+      "explanation": "The tumbao rhythm is a foundational pattern in Afro-Cuban music played on congas."
+    },
+    {
+      "question": "Which percussion technique on conga produces a loud, crisp sound?",
+      "options": ["Open tone", "Slap tone", "Bass tone", "Muffled tone"],
+      "answer": "Slap tone",
+      "explanation": "The slap tone produces a sharp, accented sound, adding intensity to rhythms."
+    },
+    {
+      "question": "Congas were traditionally used in which type of Cuban music?",
+      "options": ["Rumba", "Samba", "Bossa nova", "Flamenco"],
+      "answer": "Rumba",
+      "explanation": "Congas are central to rumba, a traditional Cuban music and dance style."
+    },
+    {
+      "question": "The conga drum is typically part of a:",
+      "options": ["Solo performance", "Drum circle", "String ensemble", "Jazz combo"],
+      "answer": "Drum circle",
+      "explanation": "Congas are often played in drum circles, allowing for collaborative, rhythmic exchanges."
+    },
+    {
+      "question": "In addition to Cuba, which other country is known for its Afro-Latin drumming styles?",
+      "options": ["Argentina", "Brazil", "Mexico", "Peru"],
+      "answer": "Brazil",
+      "explanation": "Brazil has a rich drumming culture, including Afro-Brazilian styles like samba and capoeira."
+    },
+    {
+      "question": "Which American band is known for integrating conga drums in their Latin rock sound?",
+      "options": ["The Rolling Stones", "The Beatles", "Santana", "Led Zeppelin"],
+      "answer": "Santana",
+      "explanation": "Santana brought Latin percussion, including congas, into rock music in the 1960s."
+    },
+    {
+      "question": "A conguero is a musician who:",
+      "options": ["Plays the conga drum", "Sings traditional Cuban music", "Dances Cuban salsa", "Composes Latin jazz music"],
+      "answer": "Plays the conga drum",
+      "explanation": "A conguero specializes in playing conga drums."
+    }
+  ]
+},
+{
+  "setNumber": 8,
+  "questions": [
+    {
+      "question": "Which drum has the middle pitch in a conga set?",
+      "options": ["Conga", "Tumba", "Quinto", "Supertumba"],
+      "answer": "Conga",
+      "explanation": "The conga drum, medium in size, has a middle pitch in the standard setup."
+    },
+    {
+      "question": "What is the primary role of the quinto drum in traditional rumba?",
+      "options": ["To play bass rhythms", "To add percussive accents", "As a solo drum", "To support harmonic instruments"],
+      "answer": "As a solo drum",
+      "explanation": "The quinto drum is often used for lead solos in rumba."
+    },
+    {
+      "question": "Who contributed to modernizing the tuning system of congas?",
+      "options": ["Carlos 'Patato' Valdés", "Tito Puente", "Arsenio Rodríguez", "Celia Cruz"],
+      "answer": "Carlos 'Patato' Valdés",
+      "explanation": "Valdés developed a more accessible tuning system, enhancing the drum’s versatility."
+    },
+    {
+      "question": "Which conga drum is the smallest and used for high-pitched accents?",
+      "options": ["Conga", "Requinto", "Tumba", "Supertumba"],
+      "answer": "Requinto",
+      "explanation": "The requinto is the smallest conga drum, ideal for high-pitched rhythms."
+    },
+    {
+      "question": "What term is used to refer to conga players?",
+      "options": ["Congistas", "Congueros", "Bongueros", "Tamboreros"],
+      "answer": "Congueros",
+      "explanation": "\"Conguero\" is the Spanish term for conga players."
+    },
+    {
+      "question": "Congas were traditionally tuned using what system?",
+      "options": ["Pegs and straps", "Screw-and-lug", "Rope tuning", "Tension rods"],
+      "answer": "Screw-and-lug",
+      "explanation": "The screw-and-lug system allows more precise tuning of the drumhead."
+    },
+    {
+      "question": "Which genre helped popularize the conga in the United States?",
+      "options": ["Mambo", "Jazz", "Rock", "Flamenco"],
+      "answer": "Mambo",
+      "explanation": "Mambo music, a Cuban style, brought congas into mainstream U.S. music."
+    },
+    {
+      "question": "The term 'conga' was popularized by what kind of Cuban event?",
+      "options": ["Religious rituals", "Festivals", "Concerts", "Carnivals"],
+      "answer": "Carnivals",
+      "explanation": "Congas were commonly played during Cuban carnivals and parades."
+    },
+    {
+      "question": "In which dance is the 'conga line' traditionally performed?",
+      "options": ["Samba", "Rumba", "Salsa", "Mambo"],
+      "answer": "Salsa",
+      "explanation": "The conga line dance is popular in salsa celebrations and Cuban festivals."
+    },
+    {
+      "question": "Which percussionist was known for combining congas with bongos in jazz?",
+      "options": ["Ray Barretto", "Tito Puente", "Cándido Camero", "Armando Peraza"],
+      "answer": "Cándido Camero",
+      "explanation": "Cándido was a pioneer in blending congas and bongos in Latin jazz."
+    }
+  ]
+},
+{
+  "setNumber": 9,
+  "questions": [
+    {
+      "question": "What country is the origin of the conga drum?",
+      "options": ["Brazil", "Cuba", "Argentina", "Puerto Rico"],
+      "answer": "Cuba",
+      "explanation": "The conga drum originated in Cuba, heavily influenced by African musical traditions brought to the Caribbean."
+    },
+    {
+      "question": "The conga drum is also known by what other name?",
+      "options": ["Bongo", "Tumbadora", "Cajón", "Timbales"],
+      "answer": "Tumbadora",
+      "explanation": "\"Tumbadora\" is another name for conga, especially in Cuba."
+    },
+    {
+      "question": "Which type of conga drum has the highest pitch?",
+      "options": ["Tumba", "Conga", "Quinto", "Supertumba"],
+      "answer": "Quinto",
+      "explanation": "The quinto drum is the smallest and has the highest pitch, often used for solo parts."
+    },
+    {
+      "question": "Congas are typically made of which materials?",
+      "options": ["Metal and wood", "Wood and fiberglass", "Stone and clay", "Leather and brass"],
+      "answer": "Wood and fiberglass",
+      "explanation": "Most modern congas are made from wood or fiberglass for better durability and sound."
+    },
+    {
+      "question": "Who was one of the pioneers in bringing congas to the United States?",
+      "options": ["Carlos Santana", "Tito Puente", "Desi Arnaz", "Machito"],
+      "answer": "Desi Arnaz",
+      "explanation": "Desi Arnaz helped popularize the conga drum in American entertainment, particularly on television."
+    },
+    {
+      "question": "The basic conga playing technique that produces a resonant sound is called:",
+      "options": ["Slap tone", "Open tone", "Bass tone", "Muffled tone"],
+      "answer": "Open tone",
+      "explanation": "The open tone, played near the drum's rim, creates a clear and resonant sound."
+    },
+    {
+      "question": "In a typical conga set, which drum has the lowest pitch?",
+      "options": ["Tumba", "Quinto", "Conga", "Requinto"],
+      "answer": "Tumba",
+      "explanation": "The tumba is the largest and produces the lowest pitch in a set of congas."
+    },
+    {
+      "question": "Which rhythm is commonly associated with conga drums?",
+      "options": ["Samba", "Guaguancó", "Flamenco", "Bossa nova"],
+      "answer": "Guaguancó",
+      "explanation": "Guaguancó is a Cuban rhythm often played on congas in traditional rumba music."
+    },
+    {
+      "question": "What is the name of the stroke that produces a muted sound?",
+      "options": ["Slap tone", "Open tone", "Muffled tone", "Heel tone"],
+      "answer": "Muffled tone",
+      "explanation": "The muffled tone is created by pressing fingers against the drumhead to mute the sound."
+    },
+    {
+      "question": "Which of the following artists is known for his conga playing in jazz and Latin rock?",
+      "options": ["Tito Puente", "Mongo Santamaría", "Cándido Camero", "Antonio Carlos Jobim"],
+      "answer": "Mongo Santamaría",
+      "explanation": "Mongo Santamaría was a legendary conguero who blended Afro-Cuban rhythms with jazz."
+    }
+  ]
 }
-
-
-
 ]  
 },
+
+
+
+
 {
   "subtopicName": "Dafli",
   "description":[
@@ -18713,7 +20736,332 @@
       "explanation": "The Dafli is used to create a jingling, rhythmic sound that adds to the energy of the music and dance."
     }
   ]
-}   
+},
+{
+  "setNumber": 6,
+  "questions": [
+    {
+      "question": "Which sound does a guitar make?",
+      "options": ["Strum", "Boom", "Whistle", "Pop"],
+      "answer": "Strum",
+      "explanation": "The sound produced by a guitar is called a strum, which is made by brushing fingers or a pick across the strings."
+    },
+    {
+      "question": "Which instrument looks like a little guitar?",
+      "options": ["Ukulele", "Violin", "Drum", "Trumpet"],
+      "answer": "Ukulele",
+      "explanation": "The ukulele resembles a small guitar and is a string instrument from Hawaii."
+    },
+    {
+      "question": "What do people do with a tambourine?",
+      "options": ["Shake it", "Blow into it", "Pluck it", "Spin it"],
+      "answer": "Shake it",
+      "explanation": "A tambourine is typically shaken or tapped to produce a jingling sound."
+    },
+    {
+      "question": "Which instrument has holes to blow air through?",
+      "options": ["Flute", "Drum", "Piano", "Guitar"],
+      "answer": "Flute",
+      "explanation": "The flute is a woodwind instrument that produces sound when air is blown across its holes."
+    },
+    {
+      "question": "Which instrument is played by rubbing a bow across strings?",
+      "options": ["Violin", "Trumpet", "Flute", "Piano"],
+      "answer": "Violin",
+      "explanation": "The violin is played by drawing a bow across its strings, producing a resonant sound."
+    },
+    {
+      "question": "What kind of sound does a trumpet make?",
+      "options": ["Loud", "Quiet", "Beep", "Ding"],
+      "answer": "Loud",
+      "explanation": "The trumpet is known for its bright, loud sound, often heard in bands and orchestras."
+    },
+    {
+      "question": "Which instrument has black and white keys?",
+      "options": ["Piano", "Drum", "Flute", "Violin"],
+      "answer": "Piano",
+      "explanation": "The piano is a keyboard instrument with alternating black and white keys for different notes."
+    },
+    {
+      "question": "What instrument do you hit to make a loud sound?",
+      "options": ["Drum", "Flute", "Guitar", "Violin"],
+      "answer": "Drum",
+      "explanation": "Drums are percussion instruments that produce sound when struck."
+    },
+    {
+      "question": "Which of these instruments is used in marching bands?",
+      "options": ["Drum", "Book", "Shoe", "Fan"],
+      "answer": "Drum",
+      "explanation": "Drums are essential in marching bands for providing rhythm and beat."
+    },
+    {
+      "question": "Which sound does a bell make?",
+      "options": ["Ring", "Chirp", "Moo", "Bang"],
+      "answer": "Ring",
+      "explanation": "Bells are known for their ringing sound, commonly heard in schools and churches."
+    }
+  ]
+},
+{
+  "setNumber": 7,
+  "questions": [
+    {
+      "question": "Which instrument is shaped like a tube?",
+      "options": ["Trumpet", "Guitar", "Drum", "Violin"],
+      "answer": "Trumpet",
+      "explanation": "The trumpet is a brass instrument shaped like a tube that flares out at the end."
+    },
+    {
+      "question": "What do people do with maracas?",
+      "options": ["Shake them", "Blow into them", "Press keys", "Pluck strings"],
+      "answer": "Shake them",
+      "explanation": "Maracas are percussion instruments that are shaken to produce sound."
+    },
+    {
+      "question": "Which instrument can you see in an orchestra?",
+      "options": ["Violin", "Spoon", "Car", "Cup"],
+      "answer": "Violin",
+      "explanation": "The violin is a common string instrument in orchestras, played with a bow."
+    },
+    {
+      "question": "Which instrument is sometimes played on the street?",
+      "options": ["Guitar", "Fork", "Hammer", "Plate"],
+      "answer": "Guitar",
+      "explanation": "The guitar is often played by street musicians, especially in urban areas."
+    },
+    {
+      "question": "Which of these can be very loud?",
+      "options": ["Drum", "Leaf", "Feather", "Paper"],
+      "answer": "Drum",
+      "explanation": "Drums can produce loud, resonant sounds, commonly used in music to add rhythm and volume."
+    },
+    {
+      "question": "What do cymbals sound like?",
+      "options": ["Crash", "Moo", "Beep", "Chirp"],
+      "answer": "Crash",
+      "explanation": "Cymbals produce a crashing sound when struck, often used for dramatic emphasis in music."
+    },
+    {
+      "question": "Where might you hear drums playing?",
+      "options": ["At a concert", "In a tree", "Underwater", "In a car"],
+      "answer": "At a concert",
+      "explanation": "Drums are a staple in live performances and concerts, providing rhythm for various genres."
+    },
+    {
+      "question": "Which instrument is often used in rock music?",
+      "options": ["Guitar", "Spoon", "Flute", "Book"],
+      "answer": "Guitar",
+      "explanation": "The guitar is iconic in rock music, particularly electric guitars, known for their powerful sound."
+    },
+    {
+      "question": "Which instrument is small and played with your fingers?",
+      "options": ["Flute", "Violin", "Piano", "Ukulele"],
+      "answer": "Ukulele",
+      "explanation": "The ukulele is a small, stringed instrument played with fingers, popular in Hawaiian music."
+    },
+    {
+      "question": "What do people use to play a trumpet?",
+      "options": ["Mouth", "Feet", "Hands", "Head"],
+      "answer": "Mouth",
+      "explanation": "The trumpet is a brass instrument played by blowing air through the mouthpiece."
+    }
+  ]
+},
+{
+  "setNumber": 8,
+  "questions": [
+    {
+      "question": "Which part of a drum is hit to make noise?",
+      "options": ["Side", "Middle", "Bottom", "Top"],
+      "answer": "Top",
+      "explanation": "The top part of a drum, called the drumhead, is hit to produce sound."
+    },
+    {
+      "question": "Which of these is NOT a musical instrument?",
+      "options": ["Drum", "Flute", "Spoon", "Guitar"],
+      "answer": "Spoon",
+      "explanation": "A spoon is not a musical instrument, unlike a drum, flute, or guitar."
+    },
+    {
+      "question": "What do we do with a whistle?",
+      "options": ["Blow", "Tap", "Spin", "Shake"],
+      "answer": "Blow",
+      "explanation": "A whistle produces sound when air is blown through it."
+    },
+    {
+      "question": "Which sound does a trumpet make?",
+      "options": ["Honk", "Buzz", "Toot", "Ding"],
+      "answer": "Toot",
+      "explanation": "A trumpet typically makes a 'toot' sound due to the airflow and technique."
+    },
+    {
+      "question": "Which country is famous for the sitar?",
+      "options": ["India", "Canada", "Australia", "Japan"],
+      "answer": "India",
+      "explanation": "The sitar is a traditional string instrument from India, popular in classical Indian music."
+    },
+    {
+      "question": "What is a small drum called?",
+      "options": ["Flute", "Bongos", "Trumpet", "Violin"],
+      "answer": "Bongos",
+      "explanation": "Bongos are small drums played in pairs, popular in Latin American music."
+    },
+    {
+      "question": "What kind of instrument is a flute?",
+      "options": ["String", "Wind", "Keyboard", "Drum"],
+      "answer": "Wind",
+      "explanation": "A flute is a wind instrument played by blowing air across an opening."
+    },
+    {
+      "question": "Which instrument has pedals?",
+      "options": ["Piano", "Violin", "Drum", "Flute"],
+      "answer": "Piano",
+      "explanation": "Pianos have pedals that are used to sustain or alter the sound of the notes played."
+    },
+    {
+      "question": "Which of these is a very big drum?",
+      "options": ["Flute", "Trumpet", "Timpani", "Guitar"],
+      "answer": "Timpani",
+      "explanation": "The timpani is a large drum used in orchestras to create powerful, resonant sounds."
+    },
+    {
+      "question": "Which instrument do you blow into?",
+      "options": ["Drum", "Flute", "Guitar", "Bell"],
+      "answer": "Flute",
+      "explanation": "The flute is a wind instrument that requires air to be blown through it to produce sound."
+    }
+  ]
+},
+{
+  "setNumber": 9,
+  "questions": [
+    {
+      "question": "What does a guitar have that makes sound?",
+      "options": ["Keys", "Strings", "Wheels", "Bells"],
+      "answer": "Strings",
+      "explanation": "A guitar produces sound when its strings are plucked or strummed."
+    },
+    {
+      "question": "Which instrument do you hit with a stick?",
+      "options": ["Drum", "Flute", "Guitar", "Piano"],
+      "answer": "Drum",
+      "explanation": "Drums are typically played by hitting them with sticks or hands."
+    },
+    {
+      "question": "Which instrument is often played in a band?",
+      "options": ["Drum", "Fork", "Pen", "Brush"],
+      "answer": "Drum",
+      "explanation": "Drums are a common instrument in many types of bands, providing rhythm and beat."
+    },
+    {
+      "question": "What sound does a bell make?",
+      "options": ["Boom", "Ring", "Whoosh", "Buzz"],
+      "answer": "Ring",
+      "explanation": "Bells produce a 'ringing' sound when struck."
+    },
+    {
+      "question": "What do people use to play the piano?",
+      "options": ["Feet", "Fingers", "Elbows", "Nose"],
+      "answer": "Fingers",
+      "explanation": "Piano keys are typically played using fingers."
+    },
+    {
+      "question": "What shape is a Daf?",
+      "options": ["Round", "Square", "Triangle", "Rectangle"],
+      "answer": "Round",
+      "explanation": "The Daf is a round, traditional drum used in Middle Eastern music."
+    },
+    {
+      "question": "Which instrument sounds like a bell?",
+      "options": ["Drum", "Piano", "Triangle", "Violin"],
+      "answer": "Triangle",
+      "explanation": "The triangle produces a bell-like ringing sound when struck."
+    },
+    {
+      "question": "What instrument has black and white keys?",
+      "options": ["Piano", "Drum", "Violin", "Guitar"],
+      "answer": "Piano",
+      "explanation": "A piano has a keyboard with black and white keys to produce different notes."
+    },
+    {
+      "question": "Where do people play the Daf?",
+      "options": ["On stage", "In the ocean", "In a car", "On the moon"],
+      "answer": "On stage",
+      "explanation": "The Daf is often played on stage, especially in musical performances."
+    },
+    {
+      "question": "Which sound does a violin make?",
+      "options": ["Boom", "Pluck", "Ding", "Zing"],
+      "answer": "Zing",
+      "explanation": "The violin makes a 'zing' sound when played with a bow, due to the friction on the strings."
+    }
+  ]
+},
+{
+  "setNumber": 10,
+  "questions": [
+    {
+      "question": "What do you call a group of musical sounds?",
+      "options": ["Noise", "Music", "Sound", "Quiet"],
+      "answer": "Music",
+      "explanation": "A group of harmonious musical sounds is called music."
+    },
+    {
+      "question": "Which instrument is played by shaking it?",
+      "options": ["Drum", "Tambourine", "Piano", "Flute"],
+      "answer": "Tambourine",
+      "explanation": "A tambourine is played by shaking or striking it, producing a jingling sound."
+    },
+    {
+      "question": "What is another name for the Daf?",
+      "options": ["Drum", "Bendir", "Violin", "Piano"],
+      "answer": "Bendir",
+      "explanation": "The Daf is also known as the Bendir, a traditional frame drum."
+    },
+    {
+      "question": "Where is the Daf mostly found?",
+      "options": ["Middle East", "North Pole", "South America", "Japan"],
+      "answer": "Middle East",
+      "explanation": "The Daf is commonly used in Middle Eastern music."
+    },
+    {
+      "question": "Which instrument is played with sticks?",
+      "options": ["Guitar", "Drum", "Flute", "Violin"],
+      "answer": "Drum",
+      "explanation": "Drums are typically played by hitting them with sticks or hands."
+    },
+    {
+      "question": "What does a Daf use for its skin?",
+      "options": ["Goat skin", "Snake skin", "Plastic", "Cloth"],
+      "answer": "Goat skin",
+      "explanation": "Traditional Daf drums often use goat skin as the drumhead material."
+    },
+    {
+      "question": "What other instrument sounds like a drum?",
+      "options": ["Tambourine", "Trumpet", "Piano", "Violin"],
+      "answer": "Tambourine",
+      "explanation": "A tambourine has a similar percussive sound to a drum when shaken or struck."
+    },
+    {
+      "question": "Which instrument has strings?",
+      "options": ["Guitar", "Drum", "Flute", "Bell"],
+      "answer": "Guitar",
+      "explanation": "A guitar produces sound through the vibration of its strings."
+    },
+    {
+      "question": "Which instrument do you blow into?",
+      "options": ["Flute", "Guitar", "Drum", "Piano"],
+      "answer": "Flute",
+      "explanation": "Flutes produce sound by blowing air into them."
+    },
+    {
+      "question": "What color is a drum often?",
+      "options": ["Red", "Yellow", "Blue", "Any color"],
+      "answer": "Any color",
+      "explanation": "Drums can be of any color, depending on their design and decoration."
+    }
+  ]
+}
 ]  
 }
 
