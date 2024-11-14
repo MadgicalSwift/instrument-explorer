@@ -13637,6 +13637,12 @@
       "options": ["Holidays", "Parties", "Parades", "All of the above"],
       "answer": "All of the above",
       "explanation": "Bagpipes are played to celebrate holidays, parties, and parades."
+    },
+    {
+      "question": "What kind of music can bagpipes play?",
+      "options": ["Fast music", "Slow music", "Both fast and slow", "No music"],
+      "answer": "Both fast and slow",
+      "explanation": "Bagpipes can play both fast and slow types of music."
     }
   ]
 },

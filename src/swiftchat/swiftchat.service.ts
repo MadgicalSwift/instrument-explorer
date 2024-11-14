@@ -66,7 +66,7 @@ export class SwiftchatMessageService extends MessageService {
     return response;
   }
   async sendName(from:string){
-    const message= "Can you please tell me your name?";
+    const message= "😊Can you please tell me your name❓";
     const requestData= this.prepareRequestData(from, message);
     const response = await this.sendMessage(
       this.baseUrl,
