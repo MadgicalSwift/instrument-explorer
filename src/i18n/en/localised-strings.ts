@@ -5,7 +5,7 @@ export const localised = {
   language_changed: 'Language changed to English',
   welcomeMessage: "😊Welcome to the Musical Adventure! ✨Ready to discover amazing instruments?🎵",
   validText: ['hi', 'Hi', 'HI', 'hI', 'Hello', 'hello', 'hola'],
-  selectSubtopic: (topicName: string) =>`😊Awesome choice! 📝Here’s what you can learn about 💬**${topicName}**:`,
+  selectSubtopic: (topicName: string) =>`😊 Great pick! 📝 Let’s dive into what you can explore about **${topicName}**:`,
   mainMenu:'Main Menu',
   chooseTopic:"Great!🎉 Let’s dive into the world of 🎶musical instruments. Which family would you 💯like to explore? ✨",
   retakeQuiz:'Retake Quiz',
